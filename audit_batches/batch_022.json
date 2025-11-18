@@ -547,7 +547,7 @@
     "id": "2eca1cb7"
   },
   {
-    "question": "Can the anthem the National Anthem be played only in presence of the Queen?",
+    "question": "Can the UK National Anthem be played only when the monarch is present?",
     "options": [
       "True",
       "False"
@@ -555,7 +555,7 @@
     "answers": [
       1
     ],
-    "tip": "You can play the Anthem in anyone's presence",
+    "tip": "The UK National Anthem may be played whether or not the monarch is present.",
     "id": "2ecd5770"
   },
   {

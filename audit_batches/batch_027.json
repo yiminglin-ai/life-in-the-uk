@@ -228,7 +228,7 @@
     "id": "38cd2895"
   },
   {
-    "question": "To be able to vote in a parliamentary, local or European election, you must register and your name must be on the electoral register",
+    "question": "To be able to vote in UK parliamentary or local elections, you must be registered to vote and have your name on the electoral register.",
     "options": [
       "True",
       "False"
@@ -236,7 +236,7 @@
     "answers": [
       0
     ],
-    "tip": "",
+    "tip": "In the UK, you must have your name on the electoral register in order to vote in UK parliamentary or local elections. (When the UK was a member of the European Union, the electoral register was also used for European Parliament elections, but the UK no longer takes part in those elections.)",
     "id": "38d2e989"
   },
   {
@@ -324,7 +324,7 @@
       1,
       3
     ],
-    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.",
+    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to independent bodies: the Independent Office for Police Conduct (IOPC) in England and Wales, the Police Investigations & Review Commissioner (PIRC) in Scotland, or the Police Ombudsman for Northern Ireland.",
     "id": "394562b7"
   },
   {

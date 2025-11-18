@@ -299,13 +299,13 @@
     "id": "3db57e34"
   },
   {
-    "question": "Big Ben was named 'Elizabeth Tower' in honour of Queen Elizabeth I",
+    "question": "Big Ben was named 'Elizabeth Tower' in honour of Queen Elizabeth II",
     "options": [
       "True",
       "False"
     ],
     "answers": [
-      1
+      0
     ],
     "tip": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named 'Elizabeth Tower' in honour of Queen Elizabeth II's Diamond Jubilee in 2012.",
     "id": "3dc15543"
@@ -599,7 +599,7 @@
     "id": "3ea2c749"
   },
   {
-    "question": "How old do you have to be to have your name placed on the electoral register",
+    "question": "How old do you have to be to vote in a UK General Election?",
     "options": [
       "16 or over",
       "18 or over",
@@ -609,6 +609,7 @@
     "answers": [
       1
     ],
+    "tip": "You must be 18 or over to vote in UK General Elections. (People in the UK can usually register to vote from age 16, and in Scotland and Wales some 16- and 17-year-olds can vote in devolved elections.)",
     "id": "3eade607"
   },
   {
