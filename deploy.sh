@@ -46,4 +46,4 @@ git push origin gh-pages
 echo "Returning to master..."
 git checkout master
 
-echo "Deployment complete! Application available at: https://yiminglin-ai.github.io/life-in-the-uk/"
+echo "Deployment complete! Application available at: https://yiminglin-ai.github.io/life-in-the-uk-2/"
