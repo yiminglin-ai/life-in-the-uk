@@ -78,26 +78,27 @@
         "id": "0024ae2d"
     },
     {
-        "question": "Members of the public are allowed in Youth Courts",
+        "question": "Are members of the public allowed in Youth Courts?",
         "options": [
-            "Yes, it's correct",
-            "No, they are not allowed"
+            "Yes",
+            "No"
         ],
         "answers": [
             1
         ],
+        "tip": "Youth Courts are not generally open to the public; the press and those directly involved may attend unless the court directs otherwise.",
         "id": "0038967c"
     },
     {
-        "question": "Eid ul-Fitr and Diwali are the National days",
+        "question": "Are Eid ul-Fitr and Diwali UK national public holidays?",
         "options": [
-            "Yes, its right",
-            "No, these are European Cities",
-            "No, these are other religious days"
+            "Yes",
+            "No"
         ],
         "answers": [
-            2
+            1
         ],
+        "tip": "Eid ul-Fitr and Diwali are religious festivals celebrated by communities in the UK; they are not national public holidays.",
         "id": "00433228"
     },
     {
@@ -156,7 +157,7 @@
         "id": "00997901"
     },
     {
-        "question": "George Frederick wrote which oratorio, which is sung regularly by choirs, often at Easter time?",
+        "question": "George Frederick Handel wrote which oratorio, which is sung regularly by choirs, often at Easter time?",
         "options": [
             "Messiah",
             "The Origin",
@@ -211,7 +212,7 @@
         "id": "00aa79f7"
     },
     {
-        "question": "Who is the Queen's eldest son?",
+        "question": "Who was Queen Elizabeth II's eldest son?",
         "options": [
             "Prince Edward",
             "Prince Charles",
@@ -221,7 +222,7 @@
         "answers": [
             1
         ],
-        "tip": "The Queen's eldest son is Prince Charles (the Prince of Wales).",
+        "tip": "Queen Elizabeth II's eldest son is Charles, now King Charles III.",
         "id": "00afbf74"
     },
     {
@@ -305,11 +306,11 @@
         "answers": [
             0
         ],
-        "tip": "The BBC is the largest broadcaster in the world. It is the only wholly state-funded media organisation that is independent of government. Other UK channels are primarily funded through advertisements and subscriptions.",
+        "tip": "The BBC is mainly funded by the TV licence fee paid by households and is independent of government. Other UK channels are primarily funded through advertisements and subscriptions.",
         "id": "0125ac90"
     },
     {
-        "question": "After the abolition of slavery (1833), 2 million migrants came from ______ to replace the freed slaves",
+        "question": "After the abolition of slavery in 1833, migrants were recruited from ______ to work in British colonies as indentured labourers",
         "options": [
             "Australia",
             "India",
@@ -320,6 +321,7 @@
             1,
             3
         ],
+        "tip": "Plantations in the British Empire recruited indentured workers, mainly from India and also from China, to replace slave labour.",
         "id": "0127dc8e"
     },
     {
@@ -353,13 +355,13 @@
         "options": [
             "13",
             "15",
-            "20",
+            "27",
             "28"
         ],
         "answers": [
-            3
+            2
         ],
-        "tip": "",
+        "tip": "As of 2025, the European Union has 27 member countries. The UK left the EU in 2020.",
         "id": "0145f78a"
     },
     {
@@ -380,7 +382,7 @@
             "Free college education in Scotland",
             "Free university education in the UK",
             "Free primary education in Wales",
-            "Free secondary education in England"
+            "Free secondary education in England and Wales"
         ],
         "answers": [
             3
@@ -430,7 +432,7 @@
         "id": "0186d7bf"
     },
     {
-        "question": "In the Old times The House of Lords was more powerful than The House of Commons",
+        "question": "Historically, the House of Lords was more powerful than the House of Commons.",
         "options": [
             "True",
             "False"
@@ -668,7 +670,7 @@
         "id": "0295a87c"
     },
     {
-        "question": "People aged 18 to 70 on the electoral register are ______ to serve on a jury",
+        "question": "People aged 18 to 75 on the electoral register are _____ to serve on a jury",
         "options": [
             "nominated by the local authority",
             "randomly selected",
@@ -678,6 +680,7 @@
         "answers": [
             1
         ],
+        "tip": "In the UK, eligible jurors are aged 18–75 and are randomly selected from the electoral register.",
         "id": "02a937ef"
     },
     {
@@ -734,13 +737,14 @@
         "question": "Who is responsible for keeping the dog under control?",
         "options": [
             "The doctor",
-            "The owner",
+            "The owner or person in charge",
             "The council",
             "The breeder"
         ],
         "answers": [
             1
         ],
+        "tip": "By law, dogs must be kept under control in public. Liability can fall on the owner or the person in charge at the time.",
         "id": "03292f07"
     },
     {
@@ -846,6 +850,7 @@
         "answers": [
             1
         ],
+        "tip": "Employees usually have National Insurance contributions deducted by their employer through PAYE.",
         "id": "03586a0d"
     },
     {
@@ -877,17 +882,17 @@
         "id": "036f6493"
     },
     {
-        "question": "The Phone Book, published by BT, and Yellow Pages also contains the detail of:",
+        "question": "What do the BT Phone Book and Yellow Pages primarily contain?",
         "options": [
-            "Assembly members",
-            "Members of the Parliament (MPs)",
-            "Members of the Scottish Parliament (MSPs)",
-            "Members of the European Parliament (MEPs)",
-            "All of the above"
+            "Residential and business telephone listings",
+            "Official contact details for Assembly members",
+            "Official contact details for MPs and MSPs",
+            "Official contact details for Members of the European Parliament (MEPs)"
         ],
         "answers": [
-            4
+            0
         ],
+        "tip": "Contact details for elected representatives are available via official parliamentary and devolved administration websites. The UK has had no MEPs since 2020.",
         "id": "0370dadc"
     },
     {
@@ -946,15 +951,15 @@
         "id": "0387fc4c"
     },
     {
-        "question": "The phrase ‘the Dunkirk spirit’ is still used today to describe Britons pulling together in the face of adversity.",
+        "question": "The phrase ‘the Blitz spirit’ is still used today to describe Britons pulling together in the face of adversity.",
         "options": [
             "False",
             "True"
         ],
         "answers": [
-            0
+            1
         ],
-        "tip": "The phrase ‘the Blitz spirit’ is still used today to describe Britons pulling together in the face of adversity.",
+        "tip": "‘Blitz spirit’ refers to the resilience and unity shown during the Second World War air raids and is still invoked to describe Britons pulling together.",
         "id": "038c1e5c"
     },
     {
@@ -972,7 +977,7 @@
         "id": "039e7ab4"
     },
     {
-        "question": "Where is the Millennium Stadium located?",
+        "question": "Where is the Principality Stadium (formerly the Millennium Stadium) located?",
         "options": [
             "Edinburgh",
             "Manchester",
@@ -982,11 +987,11 @@
         "answers": [
             3
         ],
-        "tip": "Sporting events take place at major stadiums such as Wembley Stadium in London and the Millennium Stadium in Cardiff.",
+        "tip": "Sporting events take place at major stadiums such as Wembley Stadium in London and the Principality Stadium in Cardiff.",
         "id": "03ab3d92"
     },
     {
-        "question": "The small claims procedure is used for claims of less than £3,000 in England and Wales",
+        "question": "The small claims procedure is used for claims of less than £3,000 in England and Wales",
         "options": [
             "False",
             "True"
@@ -994,7 +999,7 @@
         "answers": [
             0
         ],
-        "tip": "The small claims procedure is used for claims of less than £5,000 in England and Wales",
+        "tip": "In England and Wales, the small claims track generally covers claims up to £10,000.",
         "id": "03b8f87d"
     },
     {
@@ -1006,7 +1011,7 @@
         "answers": [
             1
         ],
-        "tip": "",
+        "tip": "Reporting restrictions usually protect the identity of young people. Courts may lift restrictions in certain circumstances.",
         "id": "03bf8595"
     },
     {
@@ -1074,7 +1079,7 @@
         "id": "03d4ae85"
     },
     {
-        "question": "It is ______ to cause harassment, alarm or distress to someone because of their religion or ethnic origin",
+        "question": "It is _____ to cause harassment, alarm or distress to someone because of their religion or ethnic origin",
         "options": [
             "your right",
             "a criminal offence",
@@ -1166,7 +1171,7 @@
             0,
             1
         ],
-        "tip": "British industry led the world in the 19th century. The UK produced more than half of the world’s iron, coal and cotton cloth.",
+        "tip": "British industry led the world in the 19th century. The UK produced more than half of the world’s iron and cotton cloth.",
         "id": "042a0f5a"
     },
     {
@@ -1180,7 +1185,7 @@
         "answers": [
             3
         ],
-        "tip": "The United Kingdom consists of England, Scotland, Wales and North Ireland.",
+        "tip": "The United Kingdom consists of England, Scotland, Wales and Northern Ireland.",
         "id": "042c793b"
     },
     {
@@ -1294,12 +1299,13 @@
         "question": "If your driving licence is from a country in the European Union",
         "options": [
             "you have to apply for a UK licence in order to drive",
-            "you can drive in the UK for as long as your licence is valid",
+            "you can drive in Great Britain on your valid EU licence (you may need to exchange it when it expires or by age 70)",
             "you don't need to apply for a car insurance"
         ],
         "answers": [
             1
         ],
+        "tip": "EU licences are generally valid for driving in Great Britain. Residents usually exchange when the licence expires or by age 70.",
         "id": "049ff834"
     },
     {
@@ -1356,7 +1362,7 @@
         "question": "The current heir to the throne is",
         "options": [
             "The Prince of Wales",
-            "Prince William",
+            "Prince Edward",
             "Princess Ann",
             "Prince Harry"
         ],
@@ -1401,7 +1407,7 @@
         "answers": [
             0
         ],
-        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Office for Police Conduct (IOPC) in England and Wales, the Police Investigations & Review Commissioner (PIRC) in Scotland, or the Police Ombudsman for Northern Ireland.",
         "id": "04b60d6e"
     },
     {
@@ -1443,7 +1449,7 @@
         "id": "04cbe984"
     },
     {
-        "question": "Who is Queen Elizabeth II married to?",
+        "question": "Who was Queen Elizabeth II married to?",
         "options": [
             "Prince Harry",
             "Prince Philip",
@@ -1453,7 +1459,7 @@
         "answers": [
             1
         ],
-        "tip": "Queen Elizabeth II is married to Prince Philip.",
+        "tip": "Queen Elizabeth II was married to Prince Philip.",
         "id": "04cc0598"
     },
     {
@@ -1589,7 +1595,7 @@
         "answers": [
             3
         ],
-        "tip": "To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register.",
+        "tip": "To be able to vote in a UK parliamentary or local election, you must have your name on the electoral register. (When the UK was a member of the European Union, the electoral register was also used for European Parliament elections.)",
         "id": "053d7c4f"
     },
     {
@@ -2001,7 +2007,7 @@
         "answers": [
             0
         ],
-        "tip": "Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. This led to the English Civil war in 1642.",
+        "tip": "Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. This led to the English Civil war in 1642.",
         "id": "065599fe"
     },
     {
@@ -2149,7 +2155,7 @@
         "id": "06ccd847"
     },
     {
-        "question": "Which TWO words appear in the first two lines of the national anthem 'God save the Queen'?",
+        "question": "Which TWO words appear in the first two lines of the national anthem 'God Save the King'?",
         "options": [
             "Gracious",
             "Noble",
@@ -2160,11 +2166,11 @@
             0,
             1
         ],
-        "tip": "The first verse is: 'God save our gracious Queen! Long live our noble Queen! God save the Queen! Send her victorious, Happy and glorious, Long to reign over us, God save the Queen!'.",
+        "tip": "The first verse is: 'God save our gracious King! Long live our noble King!'.",
         "id": "06d06b6b"
     },
     {
-        "question": "The National Assembly elections are held every ____ years using a form of proportional representation",
+        "question": "Elections to the Senedd (Welsh Parliament) are held every ____ years using a form of proportional representation",
         "options": [
             "one",
             "two",
@@ -2172,8 +2178,9 @@
             "five"
         ],
         "answers": [
-            2
+            3
         ],
+        "tip": "Since 2011, Senedd terms have been five years. Members are elected using the Additional Member System (a form of proportional representation).",
         "id": "06dcf72e"
     },
     {
@@ -2356,7 +2363,7 @@
         "answers": [
             2
         ],
-        "tip": "In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. This event was later called the ‘Glorious Revolution’ because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.",
+        "tip": "In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. This event was later called the ‘Glorious Revolution’ because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.",
         "id": "073c64b4"
     },
     {
@@ -2487,7 +2494,7 @@
         "options": [
             "English Parliament",
             "House of Lords",
-            "Welsh Assembly",
+            "Welsh Assembly (now Senedd Cymru)",
             "Scottish Parliament"
         ],
         "answers": [
@@ -2497,17 +2504,17 @@
         "id": "07b71107"
     },
     {
-        "question": "What is the name of the first major railway built in Britain?",
+        "question": "Which railway, opened in 1830, is widely regarded as the world's first inter-city passenger railway?",
         "options": [
+            "Liverpool and Manchester Railway",
+            "Great Western Railway",
             "Southern Railway",
-            "Victorian Rail",
-            "Blue Rail",
-            "The Great Western Railway"
+            "London and North Eastern Railway"
         ],
         "answers": [
-            3
+            0
         ],
-        "tip": "The Great Western Railway is the name of the first major railway built in Britain.",
+        "tip": "The Liverpool and Manchester Railway opened in 1830 and is widely considered the first inter-city passenger railway.",
         "id": "07c3d286"
     },
     {
@@ -2658,7 +2665,7 @@
         "answers": [
             2
         ],
-        "tip": "Sir Steve Redgrave won gold medals in rowing in five consecutive Olympic Games and is one of Britain’s greatest Olympians.",
+        "tip": "Sir Steve Redgrave won gold medals in rowing in five consecutive Olympic Games and is one of Britain’s greatest Olympians.",
         "id": "082a2f7d"
     },
     {
@@ -2991,7 +2998,7 @@
         "answers": [
             0
         ],
-        "tip": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012. ",
+        "tip": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012. ",
         "id": "098388ac"
     },
     {
@@ -3083,11 +3090,11 @@
         "answers": [
             0
         ],
-        "tip": "Owing money is a civil offence",
+        "tip": "Owing money is a civil matter, not a criminal offence.",
         "id": "09be37ca"
     },
     {
-        "question": "Anne Boleyn the wife of Henry VIII was a ______ princess, she and Henry had one daughter, Elizabeth",
+        "question": "Anne Boleyn, the wife of Henry VIII, was ______ by birth; she and Henry had one daughter, Elizabeth",
         "options": [
             "German",
             "French",
@@ -3171,12 +3178,12 @@
             "The Red Cross",
             "NSPCC",
             "The National Trust",
-            "Historic Scotland"
+            "Historic Environment Scotland"
         ],
         "answers": [
             3
         ],
-        "tip": "The Edinburgh Castle has a long history, dating back to the early Middle Ages. It is looked after by Historic Scotland, a Scottish government agency.",
+        "tip": "Edinburgh Castle has a long history, dating back to the early Middle Ages. It is cared for by Historic Environment Scotland, a public body of the Scottish Government.",
         "id": "0a19a299"
     },
     {
@@ -3218,12 +3225,12 @@
         "id": "0a41c0c8"
     },
     {
-        "question": "Which invention lead to the rapid development of the industry in Britain during the 18th and 19th centuries?",
+        "question": "Which invention led to the rapid development of industry in Britain during the 18th and 19th centuries?",
         "options": [
-            "The Radar",
-            "The Steam Power",
-            "The Jet Engine",
-            "The Turing Machine"
+            "Radar",
+            "Steam power",
+            "The jet engine",
+            "The Turing machine"
         ],
         "answers": [
             1
@@ -3325,7 +3332,7 @@
         "id": "0a814c7f"
     },
     {
-        "question": "Clement Atlee led the establishment of the NHS.",
+        "question": "Clement Attlee led the establishment of the NHS.",
         "options": [
             "True",
             "False"
@@ -3333,11 +3340,11 @@
         "answers": [
             0
         ],
-        "tip": "Clement Atlee led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
+        "tip": "Clement Attlee led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
         "id": "0a846446"
     },
     {
-        "question": "When did the Queen come to the throne?",
+        "question": "When did Queen Elizabeth II come to the throne?",
         "options": [
             "1953",
             "1952",
@@ -3401,7 +3408,7 @@
     {
         "question": "Guy Fawkes night commemorates",
         "options": [
-            "Gun powder plot of 1605",
+            "Gunpowder Plot of 1605",
             "People who died in The First World War",
             "Fireworks",
             "People who died in The Second World War"
@@ -3422,11 +3429,11 @@
         "answers": [
             3
         ],
-        "tip": "The first farmers built houses, tombs and monuments on the land.",
+        "tip": "The first farmers built houses, tombs and monuments on the land.",
         "id": "0aaa4f90"
     },
     {
-        "question": "To visit the UK Parliament you can queue on the day at the public entrance for a free entry",
+        "question": "To visit the UK Parliament, you can queue on the day at the public entrance to watch debates from the public galleries",
         "options": [
             "True",
             "False"
@@ -3437,7 +3444,7 @@
         "id": "0aac1d03"
     },
     {
-        "question": "Which of the following are a public holiday?",
+        "question": "Which of the following are public holidays (bank holidays) in the UK?",
         "options": [
             "Good Friday",
             "April Fool's Day",
@@ -3452,7 +3459,7 @@
         "id": "0abd3d7c"
     },
     {
-        "question": "You can find copies of Hansard report in large libraries and on the Internet",
+        "question": "You can find copies of Hansard reports in large libraries and on the Internet",
         "options": [
             "True",
             "False"
@@ -3464,7 +3471,7 @@
         "id": "0abfc034"
     },
     {
-        "question": "Queen Victoria introduced the Victoria Gold during the Crimean War.",
+        "question": "Queen Victoria introduced the Victoria Gold during the Crimean War.",
         "options": [
             "True",
             "False"
@@ -3529,7 +3536,7 @@
         "answers": [
             1
         ],
-        "tip": "During Henry III's reign, the Reformation was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.",
+        "tip": "During Henry VIII's reign, the Reformation was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.",
         "id": "0b373ef7"
     },
     {
@@ -3546,7 +3553,7 @@
         "id": "0b3db6e1"
     },
     {
-        "question": "The UK is one of five permanent members of the Security Council in the United Nation",
+        "question": "The UK is one of five permanent members of the Security Council in the United Nations",
         "options": [
             "True",
             "False"
@@ -3571,7 +3578,7 @@
         "id": "0b4d15d0"
     },
     {
-        "question": "The 39 steps was directed by David Lean in 1980",
+        "question": "The 39 Steps was directed by David Lean in 1980",
         "options": [
             "True",
             "False"
@@ -3609,7 +3616,7 @@
         "id": "0b5a4ff7"
     },
     {
-        "question": "Things that you can do to look after the environment includes:",
+        "question": "Things that you can do to look after the environment include:",
         "options": [
             "Walk and use public transport to get around",
             "Use mobile phone as much as possible",
@@ -3637,7 +3644,7 @@
         "id": "0b8bbd06"
     },
     {
-        "question": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+        "question": "What was inscribed on the first coins to be minted in Britain during the Iron Age?",
         "options": [
             "The names of Iron Age kings",
             "The names of Iron Age Gods",
@@ -3687,7 +3694,7 @@
         "answers": [
             1
         ],
-        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Office for Police Conduct (IOPC) in England and Wales, the Police Investigations & Review Commissioner (PIRC) in Scotland, or the Police Ombudsman for Northern Ireland.",
         "id": "0be0c33f"
     },
     {
@@ -3779,20 +3786,21 @@
         "answers": [
             0
         ],
-        "tip": "Many parts of the countryside and places of interest are kept open by the National Trust. It aims to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
+        "tip": "Many parts of the countryside and places of interest are kept open by the National Trust. It aims to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
         "id": "0c31fd80"
     },
     {
-        "question": "How many member states are there in the Commonwealth?",
+        "question": "As of 2025, how many member states are there in the Commonwealth?",
         "options": [
             "51",
             "52",
-            "54",
+            "56",
             "58"
         ],
         "answers": [
             2
         ],
+        "tip": "As of 2025, the Commonwealth has 56 member states.",
         "id": "0c357f6c"
     },
     {
@@ -3841,8 +3849,8 @@
         "question": "Which of these statements is incorrect?",
         "options": [
             "Selling or buying drugs such as heroin is illegal in the UK",
-            "It's a criminal offence to offend one's religion or ethnic origin",
-            "It's a criminal offence to carry a weapon of any kind",
+            "It's a criminal offence to discriminate against someone because of their religion or ethnic origin",
+            "It's a criminal offence to carry an illegal weapon, such as a knife, in public without good reason",
             "It's a criminal offence to owe someone money"
         ],
         "answers": [
@@ -4053,11 +4061,11 @@
         "id": "0ce94f3d"
     },
     {
-        "question": "Northern Ireland Assembly has ______ elected members",
+        "question": "The Northern Ireland Assembly has ______ elected members (MLAs)",
         "options": [
+            "90",
             "108",
-            "180",
-            "200"
+            "120"
         ],
         "answers": [
             0
@@ -4104,7 +4112,7 @@
         "id": "0d25233f"
     },
     {
-        "question": "The Welsh Assembly has the power to make laws in Health Services",
+        "question": "The Senedd (Welsh Parliament) has the power to make laws in health and social services",
         "options": [
             "True",
             "False"
@@ -4112,7 +4120,7 @@
         "answers": [
             0
         ],
-        "tip": "The Assembly has the power to make laws for Wales in 20 areas, including:\neducation and training\nhealth and social services\neconomic development\nhousing.",
+        "tip": "The Senedd (Welsh Parliament) has the power to make laws for Wales in devolved areas, including:\neducation and training\nhealth and social services\neconomic development\nhousing.",
         "id": "0d2a8896"
     },
     {
@@ -4262,7 +4270,7 @@
         "id": "0da5d514"
     },
     {
-        "question": "Can the National Anthem be played if the Queen is not present?",
+        "question": "Can the National Anthem be played if the monarch is not present?",
         "options": [
             "Yes",
             "No"
@@ -4270,7 +4278,7 @@
         "answers": [
             0
         ],
-        "tip": "",
+        "tip": "The National Anthem may be played on many occasions, whether or not the monarch is present.",
         "id": "0dc3f557"
     },
     {
@@ -4395,7 +4403,7 @@
         "id": "0e17e628"
     },
     {
-        "question": "In order to vote in a parliamentary, local, or European election, you must have your name on the register of electors, known as the electoral register",
+        "question": "In order to vote in a UK parliamentary or local election, you must have your name on the register of electors, known as the electoral register",
         "options": [
             "True",
             "False"
@@ -4550,15 +4558,15 @@
         "id": "0eec30a6"
     },
     {
-        "question": "The Queen is the ceremonial head of the Commonwealth, which currently has 27 member states",
+        "question": "The monarch (currently King Charles III) is the ceremonial Head of the Commonwealth, which currently has 56 member states",
         "options": [
             "False",
             "True"
         ],
         "answers": [
-            0
+            1
         ],
-        "tip": "The Commonwealth has 54 member states",
+        "tip": "The Head of the Commonwealth is the UK monarch (currently King Charles III). The Commonwealth is a voluntary association of 56 independent countries.",
         "id": "0f1b5e54"
     },
     {
@@ -4897,7 +4905,7 @@
         "id": "1030f8d2"
     },
     {
-        "question": "How can you visit the Welsh Assembly?",
+        "question": "How can you visit the Welsh Parliament (Senedd Cymru)?",
         "options": [
             "Using the booking service",
             "By contacting the education service",
@@ -4907,7 +4915,7 @@
         "answers": [
             0
         ],
-        "tip": "The Senedd is an open building. You can book guided tours or seats in the public galleries for the Welsh Assembly. To make a booking, contact the Assembly Booking Service",
+        "tip": "The Senedd (Welsh Parliament) is an open building. You can book guided tours or seats in the public galleries. To make a booking, use the official booking service.",
         "id": "10358b93"
     },
     {
@@ -5056,7 +5064,7 @@
         "answers": [
             2
         ],
-        "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+        "tip": "As well as getting the right to vote, people on the electoral register can be randomly selected to serve on a jury. In the UK, adults aged 18 or over on the electoral register can be called for jury service, subject to upper age limits and eligibility rules that vary between the different nations.",
         "id": "10bae223"
     },
     {
@@ -5136,7 +5144,7 @@
         "answers": [
             1
         ],
-        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
         "id": "10f10d01"
     },
     {
@@ -5260,7 +5268,7 @@
         "id": "11591bae"
     },
     {
-        "question": "How often are general elections held in the UK?",
+        "question": "What is the maximum period between general elections in the UK?",
         "options": [
             "Every 3 years",
             "Every 4 years",
@@ -5270,7 +5278,7 @@
         "answers": [
             2
         ],
-        "tip": "",
+        "tip": "A UK Parliament can last for a maximum of five years from its first meeting, so a general election must be held at least every five years.",
         "id": "116855fb"
     },
     {
@@ -5448,12 +5456,12 @@
         "options": [
             "Scottish Parliament",
             "Northern Ireland Assembly",
-            "Welsh Assembly"
+            "Welsh Assembly (now Senedd Cymru)"
         ],
         "answers": [
             1
         ],
-        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999.",
+        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999.",
         "id": "122cc733"
     },
     {
@@ -5511,7 +5519,7 @@
         "id": "124f0c60"
     },
     {
-        "question": "Who is the fastest person to sail around the world singlehanded?",
+        "question": "Which British yachtswoman became famous for sailing solo non-stop around the world and breaking the world record in 2005?",
         "options": [
             "Jessica Ennis",
             "Dame Ellen MacArthur",
@@ -5521,6 +5529,7 @@
         "answers": [
             1
         ],
+        "tip": "In 2005 Dame Ellen MacArthur broke the world record for the fastest solo circumnavigation of the globe. Her record has since been broken by other sailors.",
         "id": "12503d95"
     },
     {
@@ -5844,17 +5853,17 @@
         "id": "13341b8a"
     },
     {
-        "question": "Who is the ceremonial head of the Commonwealth?",
+        "question": "Who is the ceremonial Head of the Commonwealth?",
         "options": [
-            "The Queen",
+            "The monarch",
             "The Prime Minister",
             "The Government",
             "The Monarch"
         ],
         "answers": [
-            0
+            3
         ],
-        "tip": "The Queen is the ceremonial head of the Commonwealth.",
+        "tip": "The ceremonial Head of the Commonwealth is the UK monarch (currently King Charles III).",
         "id": "1336d33b"
     },
     {
@@ -5984,7 +5993,7 @@
         "id": "1395c004"
     },
     {
-        "question": "______ developed ideas about human nature continue to influence philosophers",
+        "question": "Whose ideas about human nature continue to influence philosophers?",
         "options": [
             "Adam Smith",
             "James Watt",
@@ -5997,16 +6006,17 @@
         "id": "13a56457"
     },
     {
-        "question": "Who does make a speech which summarises the government's policies for the year ahead?",
+        "question": "Who makes the speech, known as the King's (or Queen's) Speech, which summarises the government's policies for the year ahead?",
         "options": [
-            "The Queen's husband",
-            "The Queen's oldest son",
+            "The monarch",
             "The Prime Minister",
-            "The Queen"
+            "The Speaker of the House of Commons",
+            "The Leader of the Opposition"
         ],
         "answers": [
-            3
+            0
         ],
+        "tip": "At the State Opening of Parliament, the monarch reads the King's (or Queen's) Speech, which sets out the government's plans for the coming year.",
         "id": "13aa070b"
     },
     {
@@ -6088,7 +6098,7 @@
         "answers": [
             0
         ],
-        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body, such as the Independent Office for Police Conduct in England and Wales, the Police Investigations & Review Commissioner in Scotland or the Police Ombudsman for Northern Ireland.",
         "id": "13dff8bf"
     },
     {
@@ -6105,7 +6115,7 @@
         "id": "13e13257"
     },
     {
-        "question": "How many AMs does the Welsh government have?",
+        "question": "How many Members of the Senedd (MSs) does the Welsh Parliament have?",
         "options": [
             "129",
             "60",
@@ -6115,7 +6125,7 @@
         "answers": [
             1
         ],
-        "tip": "The Welsh government and National Assembly for Wales are based in Cardiff, the capital city of Wales. The National Assembly has 60 Assembly members (AMs) and elections are held every four years using a form of proportional representation. Members can speak in either Welsh or English and all of the Assembly’s publications are in both languages. ",
+        "tip": "The Welsh Government and Welsh Parliament (Senedd Cymru) are based in Cardiff, the capital city of Wales. The Senedd has 60 Members of the Senedd (MSs), elected using a form of proportional representation. Members can speak in either Welsh or English and the Senedd’s publications are in both languages.",
         "id": "13eaac29"
     },
     {
@@ -6706,7 +6716,7 @@
         "id": "15e9a078"
     },
     {
-        "question": "What’s the Queen’s speech for?",
+        "question": "What is the King's (or Queen's) Speech for?",
         "options": [
             "Encourage the youth to persuade education",
             "Give advise to the general public",
@@ -6716,7 +6726,7 @@
         "answers": [
             3
         ],
-        "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government’s policies for the year ahead. All Acts of Parliament are made in her name.",
+        "tip": "The monarch has important ceremonial roles, such as the State Opening of Parliament each year. On this occasion the King's (or Queen's) Speech sets out the government’s plans and legislative programme for the year ahead. All Acts of Parliament are made in the monarch's name.",
         "id": "15fb7439"
     },
     {
@@ -6813,7 +6823,7 @@
         "id": "16519cfb"
     },
     {
-        "question": "What UK landmark was voted as Britain's favourite view?",
+        "question": "Which area contains Wastwater, which television viewers voted Britain's favourite view in 2007?",
         "options": [
             "The Lake District",
             "Snowdonia",
@@ -6823,7 +6833,7 @@
         "answers": [
             0
         ],
-        "tip": "The Lake District is England's largest national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater as Britain's favourite view.",
+        "tip": "The Lake District is England's largest national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater, a lake in the Lake District, as Britain's favourite view.",
         "id": "1657ce0d"
     },
     {
@@ -6865,7 +6875,7 @@
         "answers": [
             0
         ],
-        "tip": "People over 75 can apply for a free TV licence and blind people can get a 50% discount.",
+        "tip": "Blind or severely sight-impaired people can get a 50% discount on their TV licence. Some people aged 75 or over who receive Pension Credit can get a free TV licence under current rules.",
         "id": "1681a801"
     },
     {
@@ -6895,7 +6905,7 @@
         "id": "16932e75"
     },
     {
-        "question": "Who does not have to pay for a TV licence?",
+        "question": "From what age might people in the UK be eligible for a free TV licence (subject to meeting the current benefit criteria)?",
         "options": [
             "People aged 60 or over",
             "People aged 65 or over",
@@ -6905,6 +6915,7 @@
         "answers": [
             3
         ],
+        "tip": "Under the current scheme, some people aged 75 or over who receive Pension Credit are eligible for a free TV licence.",
         "id": "1697c533"
     },
     {
@@ -7050,9 +7061,9 @@
             "True"
         ],
         "answers": [
-            0
+            1
         ],
-        "tip": "You have to be 16 to participate in the National Lottery",
+        "tip": "You must be 18 or over to take part in the National Lottery. The minimum age was raised from 16 to 18 in 2021.",
         "id": "16ec3180"
     },
     {
@@ -7206,7 +7217,7 @@
         "answers": [
             0
         ],
-        "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 28 EU member states.",
+        "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 27 EU member states, and the UK left the EU on 31 January 2020.",
         "id": "17607c32"
     },
     {
@@ -7403,8 +7414,9 @@
             "19"
         ],
         "answers": [
-            0
+            2
         ],
+        "tip": "You must be 18 or over to take part in the National Lottery. The minimum age was raised from 16 to 18 in 2021.",
         "id": "17de2aaf"
     },
     {
@@ -7463,17 +7475,17 @@
         "id": "1847918b"
     },
     {
-        "question": "Who makes a speech which summarises the government's policies for the year ahead?",
+        "question": "Who makes the speech, known as the King's (or Queen's) Speech, which summarises the government's policies for the year ahead?",
         "options": [
+            "The monarch",
             "The Prime Minister",
-            "The Queen",
-            "The Cabinet",
-            "Local Authorities"
+            "The Speaker of the House of Commons",
+            "The Leader of the Opposition"
         ],
         "answers": [
-            1
+            0
         ],
-        "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+        "tip": "At the State Opening of Parliament, the monarch reads the King's (or Queen's) Speech, which sets out the government's plans and legislative programme for the coming year.",
         "id": "184cf8a4"
     },
     {
@@ -7697,7 +7709,7 @@
         "id": "19251c98"
     },
     {
-        "question": "How many members does The National Assembly for Wales have?",
+        "question": "How many Members of the Senedd (MSs) does the Welsh Parliament have?",
         "options": [
             "50",
             "60",
@@ -7707,6 +7719,7 @@
         "answers": [
             1
         ],
+        "tip": "The Welsh Parliament (Senedd Cymru) has 60 Members of the Senedd (MSs).",
         "id": "193dc22a"
     },
     {
@@ -8135,17 +8148,17 @@
         "id": "1a71c41e"
     },
     {
-        "question": "How long can you use an EU driving licence for?",
+        "question": "If your driving licence is from a country outside the UK, how long can you usually drive in the UK before you must exchange it or stop driving?",
         "options": [
             "5 years",
             "2 years",
             "12 months",
-            "As long as it's valid"
+            "As long as it is valid"
         ],
         "answers": [
-            3
+            2
         ],
-        "tip": "If your driving licence is from a country in the European Union (EU), Iceland, Liechtenstein or Norway, you can drive in the UK for as long as your licence is valid. If you have a licence from any other country, you may use it in the UK for up to 12 months.",
+        "tip": "If your driving licence is from most countries outside the UK, you can usually drive on it for up to 12 months from when you become resident before you must exchange it or stop driving. (Rules can vary slightly depending on the country your licence is from.)",
         "id": "1a76b297"
     },
     {
@@ -8185,7 +8198,7 @@
         "id": "1a8f332d"
     },
     {
-        "question": "Can the anthem ‘God save the queen’ be played only in presence of the Queen?",
+        "question": "Can the anthem ‘the National Anthem’ be played only in presence of the Queen?",
         "options": [
             "False",
             "True"
@@ -8209,7 +8222,7 @@
         "id": "1ab361c7"
     },
     {
-        "question": "Elections for the European Parliament are held every ______ year(s)",
+        "question": "When the UK was a member of the European Union, elections for the European Parliament were held every ______ year(s)",
         "options": [
             "one",
             "three",
@@ -8219,6 +8232,7 @@
         "answers": [
             3
         ],
+        "tip": "While the UK was a member of the European Union, voters elected Members of the European Parliament (MEPs) every five years.",
         "id": "1ab5648f"
     },
     {
@@ -8263,7 +8277,7 @@
         "id": "1b0bc6f6"
     },
     {
-        "question": "How often are the members of the Welsh Assembly (AMs) elected?",
+        "question": "How often are Members of the Senedd (MSs) elected to the Welsh Parliament?",
         "options": [
             "Every 5 years",
             "Every 2 years",
@@ -8271,9 +8285,9 @@
             "Every 3 years"
         ],
         "answers": [
-            2
+            0
         ],
-        "tip": "",
+        "tip": "Elections to the Welsh Parliament (Senedd Cymru) are currently held every five years.",
         "id": "1b0f44ea"
     },
     {
@@ -8294,12 +8308,13 @@
         "options": [
             "The Foreign Secretary",
             "The Prime Minister",
-            "The Queen",
-            "The MP"
+            "The monarch",
+            "An MP"
         ],
         "answers": [
             2
         ],
+        "tip": "The UK is a constitutional monarchy. The monarch is the head of state, while the Prime Minister is the head of government.",
         "id": "1b14f258"
     },
     {
@@ -8398,7 +8413,7 @@
         "answers": [
             3
         ],
-        "tip": "The UK originally decided not to join the EU (European Union) but it became a member in 1973. There are now 28 EU member states.",
+        "tip": "The UK originally decided not to join the EU (European Union) but became a member in 1973. There are now 27 EU member states, and the UK left the EU on 31 January 2020.",
         "id": "1b9363a3"
     },
     {
@@ -8695,12 +8710,12 @@
             "The Speaker",
             "The Prime Minister",
             "The Foreign Secretary",
-            "The Queen"
+            "The monarch"
         ],
         "answers": [
             3
         ],
-        "tip": "The Queen represents the UK to the rest of the world. She receives foreign ambassadors and high commissioners, entertains visiting heads of state, and makes state visits overseas in support of diplomatic and economic relationships with other countries.",
+        "tip": "The monarch represents the UK to the rest of the world. They receive foreign ambassadors and high commissioners, entertain visiting heads of state, and make state visits overseas in support of diplomatic and economic relationships with other countries.",
         "id": "1c743946"
     },
     {
@@ -9062,7 +9077,7 @@
         "id": "1dd54de7"
     },
     {
-        "question": "The National Anthem \"God save the queen\" can only be played in the presence of the Queen.",
+        "question": "The UK National Anthem \"God Save the King\" can only be played in the presence of the monarch.",
         "options": [
             "True",
             "False"
@@ -9070,7 +9085,7 @@
         "answers": [
             1
         ],
-        "tip": "",
+        "tip": "The National Anthem is called \"God Save the King\" and may be played on many occasions, whether or not the monarch is present.",
         "id": "1ddd1ef9"
     },
     {
@@ -9939,7 +9954,7 @@
         "id": "20574293"
     },
     {
-        "question": "By what system are Members of the Scottish Parliament and the Welsh Assembly elected?",
+        "question": "By what system are Members of the Scottish Parliament and the Welsh Parliament (Senedd Cymru) elected?",
         "options": [
             "Proportional representation",
             "Instant runoff",
@@ -10129,12 +10144,13 @@
         "options": [
             "36",
             "49",
-            "54",
+            "56",
             "62"
         ],
         "answers": [
             2
         ],
+        "tip": "As of 2025, the Commonwealth has 56 member countries.",
         "id": "20dd0303"
     },
     {
@@ -10244,7 +10260,7 @@
         "id": "212bd653"
     },
     {
-        "question": "Members in the Welsh Assembly can speak English and Welsh, and all Assembly publications are in both languages",
+        "question": "Members in the Welsh Parliament (Senedd Cymru) can speak English and Welsh, and all Assembly publications are in both languages",
         "options": [
             "True",
             "False"
@@ -10758,13 +10774,13 @@
         "options": [
             "The Prime Minister",
             "The Speaker",
-            "The Queen",
+            "The King",
             "The Home Secretary"
         ],
         "answers": [
             2
         ],
-        "tip": "",
+        "tip": "The monarch has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead.",
         "id": "22d215c4"
     },
     {
@@ -10825,7 +10841,7 @@
         "id": "231a50d4"
     },
     {
-        "question": "What is played at important national occasions and at events attended by the Queen or the Royal Family?",
+        "question": "What is played at important national occasions and at events attended by the King or the Royal Family?",
         "options": [
             "Drums",
             "National Anthem",
@@ -10862,6 +10878,7 @@
         "answers": [
             2
         ],
+        "tip": "Driving licences from EU and EEA countries (including Iceland, Liechtenstein and Norway) are generally valid for driving in the UK while they remain valid. Residents usually have to exchange their licence when it expires or by age 70. These rules are based on international agreements and continue to apply after Brexit.",
         "id": "233e6c1c"
     },
     {
@@ -11076,7 +11093,7 @@
         "id": "2439d6d4"
     },
     {
-        "question": "Who will remain the longest reigning monarch until 9 September 2015?",
+        "question": "Who was the longest reigning British monarch until 9 September 2015?",
         "options": [
             "Elizabeth II",
             "Elizabeth I",
@@ -11086,7 +11103,7 @@
         "answers": [
             2
         ],
-        "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. Her reign is known as the Victorian Age. On September 9 2015, Queen Elizabeth II will pass the record set by her great-great-grandmother Queen Victoria.",
+        "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. Her reign is known as the Victorian Age. On 9 September 2015, Queen Elizabeth II surpassed Queen Victoria's record to become the longest reigning British monarch.",
         "id": "243fd840"
     },
     {
@@ -11334,7 +11351,7 @@
         "id": "24e419ba"
     },
     {
-        "question": "The Queen represents the UK to the rest of the world",
+        "question": "The monarch represents the UK to the rest of the world",
         "options": [
             "True",
             "False"
@@ -11505,7 +11522,7 @@
         "answers": [
             2
         ],
-        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999.",
+        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999.",
         "id": "2581b312"
     },
     {
@@ -12642,9 +12659,9 @@
             "Prince William"
         ],
         "answers": [
-            0
+            3
         ],
-        "tip": "The Queen’s eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+        "tip": "In the UK, the heir to the throne is the monarch's eldest child. As of 2025, the heir is Prince William, the Prince of Wales.",
         "id": "289a007d"
     },
     {
@@ -12803,19 +12820,19 @@
         "id": "2983a6b2"
     },
     {
-        "question": "Wales and Scotland use a system called ‘individual registration’.  All those entitled to vote must complete their own registration forms",
+        "question": "In Northern Ireland a system called ‘individual registration’ operates and all those entitled to vote must complete their own registration form",
         "options": [
-            "Trues",
+            "True",
             "False"
         ],
         "answers": [
-            1
+            0
         ],
         "tip": "In Northern Ireland a system called ‘individual registration’ operates and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change.",
         "id": "298e7159"
     },
     {
-        "question": "The Welsh government and National Assembly for Wales are based in",
+        "question": "The Welsh Government and Welsh Parliament (Senedd Cymru) are based in",
         "options": [
             "Newport",
             "Cardiff",
@@ -13155,19 +13172,20 @@
         "id": "2af02eed"
     },
     {
-        "question": "The Queen's ______ is the heir to the throne",
+        "question": "Under the current rules of succession, who is usually first in line to the throne?",
         "options": [
-            "Oldest daughter",
-            "Oldest son",
-            "Oldest grandson"
+            "The monarch's eldest child",
+            "The monarch's eldest son",
+            "The monarch's eldest grandchild"
         ],
         "answers": [
-            1
+            0
         ],
+        "tip": "Since changes introduced by the Succession to the Crown Act 2013, the Crown passes to the monarch's eldest child, regardless of whether they are male or female.",
         "id": "2af29641"
     },
     {
-        "question": "The Queen makes a speech at the opening of the new parliamentary session each year. What is included in it?",
+        "question": "The monarch makes a speech (often called the King's or Queen's Speech) at the opening of the new parliamentary session each year. What is included in it?",
         "options": [
             "Her own policies for next year",
             "She appoints the next Prime Minister",
@@ -13177,7 +13195,7 @@
         "answers": [
             2
         ],
-        "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+        "tip": "The monarch has important ceremonial roles, such as the State Opening of Parliament each year. On this occasion the King's (or Queen's) Speech sets out the government's legislative plans for the year ahead. All Acts of Parliament are made in the monarch's name.",
         "id": "2b2075d3"
     },
     {
@@ -13191,7 +13209,7 @@
         "answers": [
             0
         ],
-        "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. At the date of writing (2013) this is the longest reign of any British monarch. Her reign is known as the Victorian Age.",
+        "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. Her reign was the longest in British history until Queen Elizabeth II surpassed it in 2015. Her reign is known as the Victorian Age.",
         "id": "2b24db01"
     },
     {
@@ -13337,17 +13355,17 @@
         "id": "2b9b0153"
     },
     {
-        "question": "What is the title of the Queen's eldest son, Prince Charles?",
+        "question": "What is the title of the current monarch of the United Kingdom, Charles III?",
         "options": [
-            "Prince of Kent",
             "Prince of Wales",
-            "Prince of Hanover",
-            "Prince of Brunswick"
+            "King Charles III",
+            "Duke of Edinburgh",
+            "Prince of Hanover"
         ],
         "answers": [
             1
         ],
-        "tip": "",
+        "tip": "As of 2025, the monarch of the United Kingdom is King Charles III.",
         "id": "2ba6bfb0"
     },
     {
@@ -13821,7 +13839,7 @@
         "id": "2d3814df"
     },
     {
-        "question": "Can the anthem 'God save the queen' be played only in presence of the queen?",
+        "question": "Can the National Anthem be played only when the monarch is present?",
         "options": [
             "True",
             "False"
@@ -13829,7 +13847,7 @@
         "answers": [
             1
         ],
-        "tip": "You can play the anthem in anyone's presence.",
+        "tip": "The National Anthem may be played whether or not the monarch is present.",
         "id": "2d411514"
     },
     {
@@ -13862,7 +13880,7 @@
         "id": "2d43d2e8"
     },
     {
-        "question": "The National Assembly has ______ Assembly members",
+        "question": "The Senedd (Welsh Parliament) has ______ members",
         "options": [
             "60",
             "70",
@@ -14207,7 +14225,7 @@
         "question": "In 1999 which TWO new national bodies were established?",
         "options": [
             "House of Lords",
-            "Welsh Assembly",
+            "Welsh Assembly (now Senedd Cymru)",
             "Scottish Parliament",
             "English Parliament"
         ],
@@ -14215,7 +14233,7 @@
             1,
             2
         ],
-        "tip": "Since 1997, some power has been devolved from central government. In 1999 the Scottish Parliament and the Welsh Assembly were established, to give people in Scotland and Wales more control over matters directly affecting them.",
+        "tip": "Since 1997, some power has been devolved from central government. In 1999 the Scottish Parliament and the Welsh Parliament (Senedd Cymru) were established, to give people in Scotland and Wales more control over matters directly affecting them.",
         "id": "2e368bd2"
     },
     {
@@ -14257,14 +14275,14 @@
         "id": "2e4f6c77"
     },
     {
-        "question": "If you are an EU citizen living in the United Kingdom you can vote in all British public elections",
+        "question": "If you are a citizen of an EU country living in the United Kingdom, you cannot vote in UK General Elections solely on the basis of your EU citizenship",
         "options": [
             "True",
             "False"
         ],
-        "tip": "All elections except General Elections",
+        "tip": "As of 2025, citizens of EU countries resident in the UK can vote in some local and devolved elections under specific agreements, but they cannot vote in UK General Elections unless they are also British, Irish or qualifying Commonwealth citizens.",
         "answers": [
-            1
+            0
         ],
         "id": "2e569b15"
     },
@@ -14514,7 +14532,7 @@
         "id": "2eca1cb7"
     },
     {
-        "question": "Can the anthem 'God save the queen' be played only in presence of the Queen?",
+        "question": "Can the UK National Anthem be played only when the monarch is present?",
         "options": [
             "True",
             "False"
@@ -14522,7 +14540,7 @@
         "answers": [
             1
         ],
-        "tip": "You can play the Anthem in anyone's presence",
+        "tip": "The UK National Anthem may be played whether or not the monarch is present.",
         "id": "2ecd5770"
     },
     {
@@ -14679,7 +14697,7 @@
         "id": "2f1b7a02"
     },
     {
-        "question": "How often are elections for the European Parliament held?",
+        "question": "Before the UK left the European Union, how often were elections for the European Parliament held in the UK?",
         "options": [
             "Annually",
             "Every two years",
@@ -14689,7 +14707,7 @@
         "answers": [
             2
         ],
-        "tip": "Elections for the European Parliament are held every five years. Elected members are called members of the European Parliament (MEPs).",
+        "tip": "When the UK was a member of the European Union, elections for the European Parliament were held every five years. The UK no longer elects members of the European Parliament (MEPs).",
         "id": "2f24d64d"
     },
     {
@@ -14789,7 +14807,7 @@
         "id": "2f7e4628"
     },
     {
-        "question": "How old do you have to be to participate in the National Lottery?",
+        "question": "How old do you have to be to participate in the National Lottery in the UK?",
         "options": [
             "15",
             "17",
@@ -14797,9 +14815,9 @@
             "18"
         ],
         "answers": [
-            2
+            3
         ],
-        "tip": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. People under 16 are not allowed to participate in the National Lottery.",
+        "tip": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. Since 2021, people must be 18 or over to participate in the National Lottery in the UK.",
         "id": "2f80af07"
     },
     {
@@ -15826,7 +15844,7 @@
         "id": "326348dc"
     },
     {
-        "question": "What's the Queen's speech for?",
+        "question": "What is the monarch's speech (the King's or Queen's Speech) for at the State Opening of Parliament?",
         "options": [
             "Set out the government's legislative plans for the next year",
             "Summarise all of the previous policies",
@@ -15836,7 +15854,7 @@
         "answers": [
             0
         ],
-        "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+        "tip": "The monarch (currently King Charles III) has important ceremonial roles, such as the State Opening of Parliament each year. On this occasion the monarch makes a speech which sets out the government's legislative plans for the year ahead.",
         "id": "32762122"
     },
     {
@@ -16412,17 +16430,17 @@
         "id": "3533aaf5"
     },
     {
-        "question": "Who is the next heir to the throne?",
+        "question": "Who is the heir to the throne of the United Kingdom?",
         "options": [
-            "Prince William",
+            "Prince William, Prince of Wales",
             "The Prime Minister",
-            "The Queen's husband",
-            "The Queen's eldest son"
+            "The monarch's spouse",
+            "The Speaker of the House of Commons"
         ],
         "answers": [
-            3
+            0
         ],
-        "tip": "The Queen has reigned since her father’s death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+        "tip": "As of 2025, the heir to the throne is Prince William, Prince of Wales, the eldest son of King Charles III.",
         "id": "3550b6ce"
     },
     {
@@ -16452,15 +16470,15 @@
         "id": "356a2f94"
     },
     {
-        "question": "There is no upper age limit for doing jury service",
+        "question": "There is an upper age limit for doing jury service",
         "options": [
             "False",
             "True"
         ],
         "answers": [
-            0
+            1
         ],
-        "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+        "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. In England and Wales, anyone who is on the electoral register and is aged 18 to 75 can be asked to do this.",
         "id": "3577fe61"
     },
     {
@@ -16469,9 +16487,9 @@
             "True",
             "False"
         ],
-        "tip": "The age limit for jury service is 70",
+        "tip": "In England and Wales, the upper age limit for jury service is 75.",
         "answers": [
-            1
+            0
         ],
         "id": "35794bd5"
     },
@@ -16518,7 +16536,7 @@
         "id": "358bccbe"
     },
     {
-        "question": "New citizens ______ loyalty to the Queen as part of the citizenship ceremony.",
+        "question": "New citizens ______ loyalty to the monarch as part of the citizenship ceremony.",
         "options": [
             "Affirm",
             "Send",
@@ -16529,7 +16547,7 @@
             0,
             2
         ],
-        "tip": "New citizens swear or affirm loyalty to the Queen as part of the citizenship ceremony.",
+        "tip": "New citizens swear or affirm loyalty to the monarch (currently King Charles III) as part of the citizenship ceremony.",
         "id": "3597372c"
     },
     {
@@ -16989,8 +17007,9 @@
             "False"
         ],
         "answers": [
-            0
+            1
         ],
+        "tip": "While the UK was a member of the European Union, EU law was an important source of law. Since the UK left the EU in 2020, EU law is no longer a direct source of law in Great Britain, although some domestic law still derives from former EU rules.",
         "id": "372851b2"
     },
     {
@@ -17157,7 +17176,7 @@
         "id": "3788b512"
     },
     {
-        "question": "How often are the European Parliament elections held?",
+        "question": "Before the UK left the European Union, how often were the European Parliament elections held in the UK?",
         "options": [
             "1",
             "3",
@@ -17167,7 +17186,7 @@
         "answers": [
             3
         ],
-        "tip": "Elections for the European Parliament are also held every five years. Elected members are called members of the European Parliament (MEPs). Elections to the European Parliament use a system of proportional representation, where seats are allocated to each party in proportion to the total number of votes it has won.",
+        "tip": "When the UK was a member of the European Union, elections for the European Parliament were held every five years. The UK no longer elects members of the European Parliament (MEPs).",
         "id": "3791d8be"
     },
     {
@@ -17524,7 +17543,7 @@
         "id": "38cd2895"
     },
     {
-        "question": "To be able to vote in a parliamentary, local or European election, you must register and your name must be on the electoral register",
+        "question": "To be able to vote in UK parliamentary or local elections, you must be registered to vote and have your name on the electoral register.",
         "options": [
             "True",
             "False"
@@ -17532,19 +17551,19 @@
         "answers": [
             0
         ],
-        "tip": "",
+        "tip": "In the UK, you must have your name on the electoral register in order to vote in UK parliamentary or local elections. (When the UK was a member of the European Union, the electoral register was also used for European Parliament elections, but the UK no longer takes part in those elections.)",
         "id": "38d2e989"
     },
     {
-        "question": "Members of the European Union can vote in all public UK elections",
+        "question": "Adult citizens of EU countries living in the UK cannot vote in UK General Elections solely because of their EU citizenship",
         "options": [
             "True",
             "False"
         ],
         "answers": [
-            1
+            0
         ],
-        "tip": "Adult citizens of other EU states who are resident in the UK can vote in all elections except General Elections.",
+        "tip": "As of 2025, citizens of EU countries resident in the UK can vote in some local and devolved elections under specific agreements, but they cannot vote in UK General Elections unless they are also British, Irish or qualifying Commonwealth citizens.",
         "id": "38d551dd"
     },
     {
@@ -17620,7 +17639,7 @@
             1,
             3
         ],
-        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.",
+        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to independent bodies: the Independent Office for Police Conduct (IOPC) in England and Wales, the Police Investigations & Review Commissioner (PIRC) in Scotland, or the Police Ombudsman for Northern Ireland.",
         "id": "394562b7"
     },
     {
@@ -17852,17 +17871,17 @@
         "id": "39c89b5c"
     },
     {
-        "question": "What are elected members of the National Assembly of Wales known as?",
+        "question": "What are elected members of the Welsh Parliament (Senedd Cymru) now known as?",
         "options": [
             "MPs",
             "MEPs",
-            "AMs",
+            "MSs",
             "MLAs"
         ],
         "answers": [
             2
         ],
-        "tip": "In Wales the elected members, known as AMs, meet in the Welsh Assembly in the Senedd in Cardiff Bay",
+        "tip": "In Wales the elected members, known as Members of the Senedd (MSs), meet in the Welsh Parliament (Senedd Cymru) in the Senedd in Cardiff Bay.",
         "id": "39ce92a7"
     },
     {
@@ -17931,7 +17950,7 @@
         "id": "39fcb181"
     },
     {
-        "question": "You can serve on a jury up to the age of 80.",
+        "question": "You can serve on a jury up to the age of 80",
         "options": [
             "True",
             "False"
@@ -17939,7 +17958,7 @@
         "answers": [
             1
         ],
-        "tip": "The age limit for jury service is 70. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do jury service.",
+        "tip": "In England and Wales, the upper age limit for jury service is 75. Anyone who is on the electoral register and is aged 18 to 75 can be asked to do jury service.",
         "id": "3a0344c6"
     },
     {
@@ -18296,7 +18315,7 @@
         "id": "3ba108f3"
     },
     {
-        "question": "How many Assembly Members are there in the National Assembly for Wales?",
+        "question": "How many Members of the Senedd (MSs) are there in the Welsh Parliament (Senedd Cymru)?",
         "options": [
             "50",
             "60",
@@ -18401,6 +18420,7 @@
         "answers": [
             0
         ],
+        "tip": "Elections to the European Parliament use proportional representation. The UK no longer takes part in these elections since leaving the European Union in 2020.",
         "id": "3c1f7262"
     },
     {
@@ -18418,14 +18438,15 @@
     {
         "question": "Who is the head of state of the UK?",
         "options": [
-            "Queen Elizabeth II",
-            "King George III",
-            "Queen Victoria",
-            "Winston Churchill"
+            "The monarch",
+            "The Prime Minister",
+            "The Speaker of the House of Commons",
+            "The Archbishop of Canterbury"
         ],
         "answers": [
             0
         ],
+        "tip": "The UK is a constitutional monarchy. As of 2025, the head of state is King Charles III.",
         "id": "3c2dbec1"
     },
     {
@@ -18916,13 +18937,13 @@
         "id": "3db57e34"
     },
     {
-        "question": "Big Ben was named 'Elizabeth Tower' in honour of Queen Elizabeth I",
+        "question": "Big Ben was named 'Elizabeth Tower' in honour of Queen Elizabeth II",
         "options": [
             "True",
             "False"
         ],
         "answers": [
-            1
+            0
         ],
         "tip": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named 'Elizabeth Tower' in honour of Queen Elizabeth II's Diamond Jubilee in 2012.",
         "id": "3dc15543"
@@ -19216,7 +19237,7 @@
         "id": "3ea2c749"
     },
     {
-        "question": "How old do you have to be to have your name placed on the electoral register",
+        "question": "How old do you have to be to vote in a UK General Election?",
         "options": [
             "16 or over",
             "18 or over",
@@ -19226,6 +19247,7 @@
         "answers": [
             1
         ],
+        "tip": "You must be 18 or over to vote in UK General Elections. (People in the UK can usually register to vote from age 16, and in Scotland and Wales some 16- and 17-year-olds can vote in devolved elections.)",
         "id": "3eade607"
     },
     {
@@ -19892,13 +19914,13 @@
         "options": [
             "Northern Ireland Assembly",
             "Scottish Parliament",
-            "Welsh Assembly",
+            "Senedd Cymru (Welsh Parliament)",
             "Westminster"
         ],
         "answers": [
             0
         ],
-        "tip": "There has been a Welsh Assembly and a Scottish Parliament since 1999. There is a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+        "tip": "There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999. There is a Northern Ireland Assembly, although this has been suspended on a few occasions.",
         "id": "40baadaa"
     },
     {
@@ -20262,9 +20284,9 @@
             "True"
         ],
         "answers": [
-            0
+            1
         ],
-        "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+        "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. In England, Wales and Northern Ireland, anyone who is on the electoral register and is aged 18 to 75 can be asked to do this.",
         "id": "41a28046"
     },
     {
@@ -20805,7 +20827,7 @@
         "id": "43585687"
     },
     {
-        "question": "Where is the National Assembly for Wales based?",
+        "question": "Where is the Welsh Parliament (Senedd Cymru) based?",
         "options": [
             "London",
             "Newport",
@@ -20815,7 +20837,7 @@
         "answers": [
             3
         ],
-        "tip": "The National Assembly for Wales is based in Cardiff, the capital city of Wales.",
+        "tip": "The Senedd Cymru (Welsh Parliament) is based in Cardiff, the capital city of Wales.",
         "id": "43790984"
     },
     {
@@ -20845,15 +20867,15 @@
         "id": "4380bc01"
     },
     {
-        "question": "Scotland and Wales use a system called 'individual registration' where all those entitled to vote must complete their own registration form.",
+        "question": "In Northern Ireland, a system called 'individual registration' operates and all those entitled to vote must complete their own registration form.",
         "options": [
             "True",
             "False"
         ],
         "answers": [
-            1
+            0
         ],
-        "tip": "",
+        "tip": "In Northern Ireland, a system called 'individual registration' operates and all those entitled to vote must complete their own registration form. Individual electoral registration has also been introduced in the rest of the UK.",
         "id": "438f1e55"
     },
     {
@@ -20943,7 +20965,7 @@
         "question": "The Prime Minister appoints",
         "options": [
             "The members of the cabinet",
-            "The Queen",
+            "The monarch",
             "Members of the Parliament"
         ],
         "answers": [
@@ -21273,15 +21295,15 @@
         "id": "4495a744"
     },
     {
-        "question": "Everyone in England, Wales and Scotland have to fill in individual electoral registration form. (Also known as ‘Individual Registration’)",
+        "question": "Everyone in the UK has to register individually to vote (a system known as ‘individual electoral registration’).",
         "options": [
             "False",
             "True"
         ],
         "answers": [
-            0
+            1
         ],
-        "tip": "This system operates in Northern Ireland. This is called ‘individual registration’ and all those entitled to vote must complete their own registration form",
+        "tip": "A system of individual electoral registration operates across the UK and everyone entitled to vote must complete their own registration form.",
         "id": "449c70bf"
     },
     {
@@ -21464,7 +21486,7 @@
         "id": "4556607b"
     },
     {
-        "question": "How is the Queen's husband, Prince Philip, often called?",
+        "question": "What title was held by Prince Philip, husband of Queen Elizabeth II?",
         "options": [
             "The Duke of London",
             "The Duke of Swansea",
@@ -21474,7 +21496,7 @@
         "answers": [
             3
         ],
-        "tip": "The Queen has reigned since her father's death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+        "tip": "Queen Elizabeth II reigned from 1952 until 2022. Her husband, Prince Philip, held the title Duke of Edinburgh.",
         "id": "4557211a"
     },
     {
@@ -21836,7 +21858,7 @@
         "id": "46955f93"
     },
     {
-        "question": "Members in the Welsh Assembly can speak English and Welsh, and all publications of the Assembly are in both languages",
+        "question": "Members in the Welsh Parliament (Senedd Cymru) can speak English and Welsh, and all publications of the Assembly are in both languages",
         "options": [
             "True",
             "False"
@@ -22046,7 +22068,7 @@
         "answers": [
             2
         ],
-        "tip": "",
+        "tip": "As of 2025, EU citizens resident in the UK cannot vote in UK General Elections unless they are also British, Irish or qualifying Commonwealth citizens. Some EU citizens can vote in certain local and devolved elections under specific agreements.",
         "id": "473c88d4"
     },
     {
@@ -22141,18 +22163,18 @@
         "id": "475f8380"
     },
     {
-        "question": "Which of the following lines are from the National Anthem (choose two options)?",
+        "question": "Which of the following lines are from the UK National Anthem (choose two options)?",
         "options": [
             "We shall never surrender",
-            "God save our gracious Queen!",
-            "Send her victorious",
+            "God save our gracious King!",
+            "Send him victorious",
             "The darling buds of May"
         ],
         "answers": [
             1,
             2
         ],
-        "tip": "",
+        "tip": "The opening of the UK National Anthem is: 'God save our gracious King! Long live our noble King! God save the King! Send him victorious...'.",
         "id": "47785e8e"
     },
     {
@@ -22560,13 +22582,13 @@
         "options": [
             "Queen reign over the UK",
             "God Save the UK",
-            "God Save the Queen",
+            "God Save the King",
             "United we stand"
         ],
         "answers": [
             2
         ],
-        "tip": "The National Anthem of the UK is ‘God Save the Queen’. It is played at important national occasions and at events attended by the Queen or the Royal Family. The first verse is: ‘God save our gracious Queen! Long live our noble Queen! God save the Queen! Send her victorious, Happy and glorious, Long to reign over us, God save the Queen!’.",
+        "tip": "The National Anthem of the UK is ‘God Save the King’. It is played at important national occasions and at events attended by the King or the Royal Family. The first verse is: ‘God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!’.",
         "id": "4898f6ff"
     },
     {
@@ -22620,7 +22642,7 @@
         "id": "48ddc1d6"
     },
     {
-        "question": "It is illegal for any person under the age of 16 to buy a Lottery ticket",
+        "question": "It is illegal for any person under the age of 18 to buy a Lottery ticket",
         "options": [
             "False",
             "True"
@@ -22628,7 +22650,7 @@
         "answers": [
             1
         ],
-        "tip": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. People under 16 are not allowed to participate in the National Lottery.",
+        "tip": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. People under 18 are not allowed to participate in the National Lottery.",
         "id": "48e71759"
     },
     {
@@ -22739,7 +22761,7 @@
         "id": "494c3785"
     },
     {
-        "question": "The Queen is ceremonial head of",
+        "question": "The monarch is the ceremonial head of",
         "options": [
             "The Commonwealth",
             "The National Council for Voluntary Organisations (NCVO)",
@@ -22748,6 +22770,7 @@
         "answers": [
             0
         ],
+        "tip": "The monarch is the ceremonial head of the Commonwealth. As of 2025, the Commonwealth has 56 member states.",
         "id": "494fe931"
     },
     {
@@ -22924,19 +22947,19 @@
         "id": "49e34ab7"
     },
     {
-        "question": "The first verse of the UK National Anthem begins with ‘God save the Queen’",
+        "question": "The first line of the UK National Anthem is ‘God save our gracious King!’",
         "options": [
             "False",
             "True"
         ],
         "answers": [
-            0
+            1
         ],
-        "tip": "The first verse of the UK National Anthem is:\n‘God save our gracious Queen! Long live our noble Queen! God save the Queen! Send her victorious, Happy and glorious, Long to reign over us, God save the Queen!’",
+        "tip": "The first verse of the UK National Anthem is:\n‘God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!’",
         "id": "49e76b6a"
     },
     {
-        "question": "Which TWO words appear in the first two lines of the national anthem ‘God save the Queen’?",
+        "question": "Which TWO words appear in the first two lines of the UK national anthem?",
         "options": [
             "Gracious",
             "Noble",
@@ -22947,7 +22970,7 @@
             0,
             1
         ],
-        "tip": "The first verse is:\n‘God save our gracious Queen! Long live our noble Queen! God save the Queen! Send her victorious, Happy and glorious, Long to reign over us, God save the Queen!’",
+        "tip": "The first verse is:\n‘God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!’",
         "id": "49f421d4"
     },
     {
@@ -22999,7 +23022,7 @@
         "answers": [
             0
         ],
-        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
         "id": "4a03aa22"
     },
     {
@@ -23311,14 +23334,15 @@
     {
         "question": "Who has an important ceremonial role in this country?",
         "options": [
-            "The Queen",
+            "The monarch",
             "The Prime Minister",
             "The Archbishop of Canterbury"
         ],
         "answers": [
             0
         ],
-        "id": "4b0a033d"
+        "id": "4b0a033d",
+        "tip": "The monarch has important ceremonial roles in the United Kingdom, including the State Opening of Parliament each year."
     },
     {
         "question": "How many crosses does the Union Flag have?",
@@ -23436,14 +23460,14 @@
         "question": "Who is currently the Head of State of the UK?",
         "options": [
             "Queen Elizabeth II",
-            "Prince Philip",
-            "David Cameron",
-            "Prince Charles"
+            "King Charles III",
+            "Prince William",
+            "The Prime Minister"
         ],
         "answers": [
-            0
+            1
         ],
-        "tip": "Queen Elizabeth II is the head of state of the UK. She is also the monarch or head of state for many countries in the Commonwealth.",
+        "tip": "King Charles III is the head of state of the UK. He is also the monarch or head of state for many countries in the Commonwealth.",
         "id": "4b4b7f3b"
     },
     {
@@ -23624,7 +23648,7 @@
         "id": "4bb287f8"
     },
     {
-        "question": "Everyone in England, Wales and Scotland have to fill in individual electoral registration form. (Also known as 'Individual Registration')",
+        "question": "Everyone in the UK has to register individually to vote (a system known as 'individual electoral registration').",
         "options": [
             "True",
             "False"
@@ -23632,7 +23656,7 @@
         "answers": [
             1
         ],
-        "tip": "This system operates in Northern Ireland. This is called 'individual registration' and all those entitled to vote must complete their own registration form",
+        "tip": "A system of individual electoral registration operates across the UK and everyone entitled to vote must complete their own registration form.",
         "id": "4bb3516a"
     },
     {
@@ -23850,7 +23874,7 @@
         "answers": [
             1
         ],
-        "tip": "Anyone on the electoral register aged between 18 and 70 can be asked to serve on a jury.",
+        "tip": "Anyone on the electoral register aged between 18 and 75 can be asked to serve on a jury (subject to eligibility rules).",
         "id": "4c49b79a"
     },
     {
@@ -24370,7 +24394,7 @@
         "answers": [
             1
         ],
-        "tip": "People over 75 can apply for a free TV licence and blind people can get a 50% discount. You will receive a fine of up to £1,000 if you watch TV but do not have a TV licence.",
+        "tip": "People aged 75 or over who receive Pension Credit can apply for a free TV licence and blind people can get a 50% discount. You will receive a fine of up to £1,000 if you watch TV but do not have a TV licence.",
         "id": "4db8d692"
     },
     {
@@ -24578,7 +24602,7 @@
             1,
             2
         ],
-        "tip": "",
+        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to independent bodies: the Independent Office for Police Conduct (IOPC) in England and Wales, the Police Investigations & Review Commissioner (PIRC) in Scotland, or the Police Ombudsman for Northern Ireland.",
         "id": "4eaed38a"
     },
     {
@@ -24764,7 +24788,7 @@
         "answers": [
             0
         ],
-        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+        "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
         "id": "4f09a170"
     },
     {
@@ -24776,7 +24800,7 @@
         "answers": [
             1
         ],
-        "tip": "The Queen is the ceremonial head of the Commonwealth, which currently has 54 member states.",
+        "tip": "The King is the ceremonial head of the Commonwealth, which currently has 56 member states.",
         "id": "4f09f623"
     },
     {
@@ -25008,7 +25032,7 @@
         "id": "4fb3d9f3"
     },
     {
-        "question": "You can contact the Assembly Booking Service to book guided tours or seats in the public galleries for the Welsh Assembly",
+        "question": "You can contact the Assembly Booking Service to book guided tours or seats in the public galleries for the Welsh Parliament (Senedd Cymru)",
         "options": [
             "True",
             "False"
@@ -25185,14 +25209,14 @@
         "question": "Who is currently the head of state of the UK?",
         "options": [
             "Queen Elizabeth II",
-            "Prince Charles",
-            "David Cameron",
-            "Theresa May"
+            "King Charles III",
+            "Prince William",
+            "The Prime Minister"
         ],
         "answers": [
-            0
+            1
         ],
-        "tip": "Queen Elizabeth II is the head of state of the UK. She is also the monarch or head of state for many countries in the Commonwealth.",
+        "tip": "King Charles III is the head of state of the UK. He is also the monarch or head of state for many countries in the Commonwealth.",
         "id": "506113cd"
     },
     {
@@ -25451,6 +25475,7 @@
         "answers": [
             0
         ],
+        "tip": "The UK joined the European Economic Community (later the European Union) in 1973 and remained a member until it left the EU on 31 January 2020.",
         "id": "5174256b"
     },
     {
@@ -25935,7 +25960,7 @@
         "id": "52ef96fd"
     },
     {
-        "question": "The Queen is married to Prince Phillip",
+        "question": "Queen Elizabeth II was married to Prince Philip, Duke of Edinburgh.",
         "options": [
             "False",
             "True"
@@ -25943,7 +25968,7 @@
         "answers": [
             1
         ],
-        "tip": "The statement is true",
+        "tip": "Queen Elizabeth II was married to Prince Philip, Duke of Edinburgh, until his death in 2021. She reigned until her own death in 2022.",
         "id": "52fa16e1"
     },
     {
@@ -26057,9 +26082,9 @@
             "21"
         ],
         "answers": [
-            0
+            2
         ],
-        "tip": "People under 16 are not allowed to participate in the National Lottery. This includes buying Scratch Cards.",
+        "tip": "People under 18 are not allowed to participate in the National Lottery. This includes buying Scratch Cards.",
         "id": "53560f09"
     },
     {
@@ -26378,7 +26403,7 @@
             0,
             2
         ],
-        "tip": "UK-born and naturalised adult citizens, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all UK elections. (Adult citizens of other EU states who are resident in the UK can vote in all elections except General Elections.)",
+        "tip": "UK-born and naturalised adult citizens, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all UK elections. Before the UK left the European Union, adult citizens of other EU states resident in the UK could vote in some UK elections (but not UK General Elections). As of 2025, EU citizens resident in the UK can vote in some local and devolved elections under specific agreements, but not UK General Elections unless they are also British, Irish or qualifying Commonwealth citizens.",
         "id": "546cc865"
     },
     {
@@ -26929,7 +26954,7 @@
         "answers": [
             0
         ],
-        "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year.",
+        "tip": "The monarch has important ceremonial roles, such as the opening of the new parliamentary session each year.",
         "id": "5696cf12"
     },
     {
@@ -27400,7 +27425,7 @@
         "id": "57b60b24"
     },
     {
-        "question": "People over 75 years of age do not have to pay for a television licence.",
+        "question": "Some people aged 75 or over who receive Pension Credit do not have to pay for a television licence.",
         "options": [
             "True",
             "False"
@@ -27408,7 +27433,7 @@
         "answers": [
             0
         ],
-        "tip": "Everyone over 75 years of age can apply for a free television licence. Everyone in the UK with a television, computer or other medium which can be used for watching TV must have a television licence.",
+        "tip": "Everyone in the UK with a television, computer or other device which can be used for watching TV must have a television licence. Under the current scheme, some people aged 75 or over who receive Pension Credit are eligible for a free TV licence; it is not automatic for everyone over 75.",
         "id": "57c38ef5"
     },
     {
@@ -27609,17 +27634,17 @@
         "id": "5836cf28"
     },
     {
-        "question": "How many members does The Northern Ireland Assembly have?",
+        "question": "How many elected members does the Northern Ireland Assembly have?",
         "options": [
-            "119",
+            "90",
             "108",
             "110",
             "129"
         ],
         "answers": [
-            1
+            0
         ],
-        "tip": "The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998. There is a power-sharing agreement which distributes ministerial Offices amongst the main parties. The Assembly has 108 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation.",
+        "tip": "The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998. There is a power-sharing agreement which distributes ministerial offices amongst the main parties. As of 2025, the Assembly has 90 elected members, known as MLAs (Members of the Legislative Assembly). They are elected with a form of proportional representation.",
         "id": "583707cc"
     },
     {
@@ -28167,7 +28192,7 @@
         "id": "59f255c2"
     },
     {
-        "question": "How many members does the Welsh Assembly have?",
+        "question": "How many members does the Welsh Parliament (Senedd Cymru) have?",
         "options": [
             "108",
             "60",
@@ -28177,7 +28202,7 @@
         "answers": [
             1
         ],
-        "tip": "The Welsh Assembly has 60 members.",
+        "tip": "The Welsh Parliament (Senedd Cymru) has 60 members.",
         "id": "59f39f3a"
     },
     {
@@ -28295,7 +28320,7 @@
         "id": "5a5cdee7"
     },
     {
-        "question": "Some issues may be debated in the Welsh Assembly and the Scottish Parliament, but remain under the control of the UK Government in London, they are:",
+        "question": "Some issues may be debated in the Welsh Parliament (Senedd Cymru) and the Scottish Parliament, but remain under the control of the UK Government in London, they are:",
         "options": [
             "Defence, Taxation, Foreign affairs, and social security",
             "Education, Environment, Police",
@@ -28539,7 +28564,7 @@
         "options": [
             "Long Live the Queen",
             "Almighty is the Queen",
-            "God Save the Queen",
+            "God Save the King",
             "Long Live the Monarch"
         ],
         "answers": [
@@ -29105,15 +29130,15 @@
         "id": "5d64d25f"
     },
     {
-        "question": "People are able to buy National Lottery tickets in the UK if they are aged 14 or over.",
+        "question": "People under 18 are not allowed to participate in the National Lottery.",
         "options": [
             "True",
             "False"
         ],
         "answers": [
-            1
+            0
         ],
-        "tip": "People under 16 are not allowed to participate in the National Lottery.",
+        "tip": "The minimum age to participate in the National Lottery was raised from 16 to 18 in 2021.",
         "id": "5d6e3b05"
     },
     {
@@ -29201,7 +29226,7 @@
             "The Queen's husband",
             "The Queen's oldest son",
             "The Prime Minister",
-            "The Queen"
+            "The monarch"
         ],
         "answers": [
             3
@@ -29770,7 +29795,7 @@
         "id": "5f0faa55"
     },
     {
-        "question": "There has been a Welsh Assembly and a Scottish Parliament since 1999",
+        "question": "There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999",
         "options": [
             "True",
             "False"
@@ -29778,7 +29803,7 @@
         "answers": [
             0
         ],
-        "tip": "There has been a Welsh Assembly and a Scottish Parliament since 1999",
+        "tip": "There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999",
         "id": "5f14e2a7"
     },
     {
@@ -30068,17 +30093,17 @@
         "id": "5fd74ca2"
     },
     {
-        "question": "How many countries make up the EU?",
+        "question": "How many countries make up the European Union (EU) as of 2025?",
         "options": [
+            "27",
             "28",
-            "190",
-            "15",
-            "54"
+            "54",
+            "190"
         ],
         "answers": [
             0
         ],
-        "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 28 EU member states",
+        "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but became a member in 1973; it left the EU on 31 January 2020. As of 2025 there are 27 EU member states.",
         "id": "5fed472b"
     },
     {
@@ -30341,7 +30366,7 @@
     {
         "question": "Who appoints Life Peers?",
         "options": [
-            "The Queen",
+            "The monarch",
             "The Prime Minister",
             "The Archbishop of Canterbury",
             "None of these"
@@ -30490,7 +30515,7 @@
         "answers": [
             3
         ],
-        "tip": "EU law is legally binding in the UK and all the other EU member states. European laws are called directives, regulations or framework decisions.",
+        "tip": "Before the UK left the European Union, EU law was legally binding in the UK as well as in other EU member states. Since 2020, EU law no longer automatically applies in the UK, although some retained EU law and special arrangements (for example in Northern Ireland) continue to operate. European laws are called directives, regulations or framework decisions.",
         "id": "61713b55"
     },
     {
@@ -30912,7 +30937,7 @@
         "id": "62960fe7"
     },
     {
-        "question": "The Queen's eldest son, Prince Charles, is also known as?",
+        "question": "During Queen Elizabeth II's reign, her eldest son, Prince Charles, was also known as?",
         "options": [
             "The Prince of Wales",
             "The Duke of Edinburgh",
@@ -30922,7 +30947,7 @@
         "answers": [
             0
         ],
-        "tip": "The Queen has reigned since her father's death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+        "tip": "Queen Elizabeth II reigned from 1952 until 2022. Her eldest son, Prince Charles, held the title Prince of Wales before becoming King Charles III.",
         "id": "629b1d83"
     },
     {
@@ -31565,7 +31590,7 @@
         "id": "646c9e58"
     },
     {
-        "question": "People over 75 years of age don't have to pay for a TV licence",
+        "question": "Some people aged 75 or over who receive Pension Credit don't have to pay for a TV licence",
         "options": [
             "True",
             "False"
@@ -31573,6 +31598,7 @@
         "answers": [
             0
         ],
+        "tip": "Under the current scheme, some people aged 75 or over who receive Pension Credit are eligible for a free TV licence; it is not automatic for everyone over 75.",
         "id": "64b7225f"
     },
     {
@@ -31774,7 +31800,7 @@
         "id": "65a01c69"
     },
     {
-        "question": "The members of the National Assembly for Welsh (AMs) can only speak in Welsh",
+        "question": "Members of the Welsh Parliament (Senedd Cymru) (MSs) can only speak in Welsh",
         "options": [
             "Yes, this is correct",
             "No, They can also speak in English"
@@ -31835,7 +31861,7 @@
         "answers": [
             3
         ],
-        "tip": "There has been a Welsh Assembly and a Scottish Parliament since 1999.",
+        "tip": "There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999.",
         "id": "65d19913"
     },
     {
@@ -31989,7 +32015,7 @@
         "id": "66244402"
     },
     {
-        "question": "The National Assembly for Wales can pass laws (in specific areas) without the agreement of the UK Parliament",
+        "question": "The Welsh Parliament (Senedd Cymru) can pass laws (in specific areas) without the agreement of the UK Parliament",
         "options": [
             "True",
             "False"
@@ -31997,7 +32023,7 @@
         "answers": [
             0
         ],
-        "tip": "The National Assembly for Wales can pass laws without the agreement of the UK Parliament",
+        "tip": "The Senedd Cymru (Welsh Parliament) can pass laws without the agreement of the UK Parliament",
         "id": "6625572d"
     },
     {
@@ -32119,7 +32145,7 @@
         "answers": [
             3
         ],
-        "tip": "Elections for the European Parliament are also held every five years. Elected members are called members of the European Parliament (MEPs).",
+        "tip": "While the UK was a member of the European Union, elections for the European Parliament were held every five years. Across the EU, elected members are called Members of the European Parliament (MEPs).",
         "id": "668e3f11"
     },
     {
@@ -32194,15 +32220,15 @@
     {
         "question": "What is the title of the UK National Anthem?",
         "options": [
-            "Long Live the Queen",
-            "God Save the Queen",
+            "Long Live the King",
+            "God Save the King",
             "Long Live the Monarch",
-            "Almighty is the Queen"
+            "Almighty is the King"
         ],
         "answers": [
             1
         ],
-        "tip": "The UK National Anthem is called 'God Save the Queen' and is played at important national occasions and events attended by the Queen or the Royal Family.",
+        "tip": "The UK National Anthem is called 'God Save the King' and is played at important national occasions and events attended by the monarch or the Royal Family.",
         "id": "66bcc3d2"
     },
     {
@@ -32483,11 +32509,11 @@
             1,
             2
         ],
-        "tip": "Australia and Canada are members of the Commonwealth. The Queen is the ceremonial head of the Commonwealth, which currently has 54 member states.",
+        "tip": "Australia and Canada are members of the Commonwealth. The King is the ceremonial head of the Commonwealth, which currently has 56 member states.",
         "id": "675eb117"
     },
     {
-        "question": "Assembly Members, MPs, and MEPs are listed in the Yellow Pages and Phone book?",
+        "question": "Contact details for elected representatives (such as MPs and Members of the Senedd) can be found in various sources including official websites.",
         "options": [
             "True",
             "False"
@@ -32495,7 +32521,8 @@
         "answers": [
             0
         ],
-        "id": "67728e45"
+        "id": "67728e45",
+        "tip": "Contact details for MPs, MSPs, Members of the Senedd (MSs), and MLAs are available via official parliamentary and devolved administration websites. The UK has had no MEPs since leaving the EU in 2020."
     },
     {
         "question": "Members of the armed forces cannot stand for public office",
@@ -32722,7 +32749,7 @@
         "answers": [
             2
         ],
-        "tip": "The UK originally decided not to join the EU but it became a member in 1973. There are now 28 EU member states",
+        "tip": "The UK originally decided not to join the European Economic Community but became a member in 1973. It left the European Union on 31 January 2020. As of 2025, there are 27 EU member states.",
         "id": "67f5a99e"
     },
     {
@@ -32767,7 +32794,7 @@
         "id": "67f90194"
     },
     {
-        "question": "Complaints against the police can only be made by writing to the Police Complaints Commissioner.",
+        "question": "Complaints against the police can only be made by writing to the Independent Office for Police Conduct (IOPC) or its equivalents in the devolved nations.",
         "options": [
             "True",
             "False"
@@ -32775,7 +32802,7 @@
         "answers": [
             1
         ],
-        "tip": "",
+        "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Office for Police Conduct (IOPC) in England and Wales, the Police Investigations & Review Commissioner (PIRC) in Scotland, or the Police Ombudsman for Northern Ireland.",
         "id": "67fe2d69"
     },
     {
@@ -32787,6 +32814,7 @@
         "answers": [
             1
         ],
+        "tip": "As of 2025, the Northern Ireland Assembly has 90 elected members, known as MLAs (Members of the Legislative Assembly). The number was reduced from 108 to 90 in 2017.",
         "id": "68166a7d"
     },
     {
@@ -32838,7 +32866,7 @@
         "answers": [
             1
         ],
-        "tip": "Adult citizens of the UK, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all public elections. Adult citizens of other EU states who are resident in the UK can vote in all elections except General Elections.",
+        "tip": "Adult citizens of the UK, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all public elections. Before the UK left the European Union, adult citizens of other EU states resident in the UK could vote in all elections except General Elections.",
         "id": "686bcd13"
     },
     {
@@ -32920,7 +32948,7 @@
         "answers": [
             1
         ],
-        "tip": "After the First World War, Sir Edwin Lutyens was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall. The Cenotaph is the site of the annual Remembrance Day service attended by the Queen, politicians and foreign ambassadors",
+        "tip": "After the First World War, Sir Edwin Lutyens was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall. The Cenotaph is the site of the annual Remembrance Day service attended by the monarch, politicians and foreign ambassadors.",
         "id": "68a89487"
     },
     {
@@ -33113,7 +33141,7 @@
         "id": "693645b4"
     },
     {
-        "question": "Who can stand for office as a Local Councillor?",
+        "question": "Before the UK left the EU, who could stand for office as a local councillor?",
         "options": [
             "British and EU citizens only",
             "British, Irish, Eligible Commonwealth Citizens and EU citizens",
@@ -33123,7 +33151,7 @@
         "answers": [
             1
         ],
-        "tip": "British citizens can stand for Office as a local councillor, a member of Parliament (or the devolved equivalents) or a member of the European Parliament. This is an opportunity to become even more involved in the political life of the UK. You may also be able to stand for Office if you are an Irish citizen, an eligible Commonwealth citizen or (except for standing to be an MP) a citizen of another EU country.",
+        "tip": "Before the UK left the EU, British citizens could stand for office as a local councillor, a member of Parliament (or the devolved equivalents) or a member of the European Parliament. You could also stand if you were an Irish citizen, an eligible Commonwealth citizen or (except for standing to be an MP) a citizen of another EU country. Since Brexit, eligibility for EU citizens to stand for local office in the UK depends on specific voting and candidacy agreements, but British, Irish and eligible Commonwealth citizens continue to be able to stand.",
         "id": "6944606a"
     },
     {
@@ -33768,7 +33796,7 @@
         "answers": [
             2
         ],
-        "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973.",
+        "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973 and later left the EU on 31 January 2020.",
         "id": "6b5c0d60"
     },
     {
@@ -33895,7 +33923,7 @@
         "id": "6bbcde8e"
     },
     {
-        "question": "New citizens ______ loyalty to the Queen as part of the citizenship ceremony",
+        "question": "New citizens ______ loyalty to the King as part of the citizenship ceremony",
         "options": [
             "send",
             "swear",
@@ -33906,6 +33934,7 @@
             1,
             2
         ],
+        "tip": "As part of the citizenship ceremony, new citizens swear or affirm loyalty to His Majesty King Charles III and pledge to respect the rights, freedoms and laws of the UK.",
         "id": "6bc0e6e8"
     },
     {
@@ -34310,14 +34339,15 @@
     {
         "question": "The Northern Ireland Assembly has ______ elected members, known as MLAs (members of the Legislative Assembly)",
         "options": [
+            "90",
             "108",
             "118",
-            "128",
-            "138"
+            "128"
         ],
         "answers": [
             0
         ],
+        "tip": "As of 2025, the Northern Ireland Assembly has 90 elected members, known as MLAs (Members of the Legislative Assembly).",
         "id": "6c9cd563"
     },
     {
@@ -34591,7 +34621,7 @@
         "id": "6d784fa1"
     },
     {
-        "question": "There are 160 Members in The National Assembly for Wales",
+        "question": "There are 160 Members in The Welsh Parliament (Senedd Cymru)",
         "options": [
             "True",
             "False"
@@ -34801,7 +34831,7 @@
         "id": "6e4108e3"
     },
     {
-        "question": "All acts of Parliaments made in who's name?",
+        "question": "All Acts of Parliament are made in whose name?",
         "options": [
             "The King's",
             "The Queen's",
@@ -34809,9 +34839,9 @@
             "The Cabinet's"
         ],
         "answers": [
-            1
+            0
         ],
-        "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+        "tip": "The monarch has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in his name.",
         "id": "6e453547"
     },
     {
@@ -35170,7 +35200,7 @@
         "id": "6efed3b8"
     },
     {
-        "question": "The Ceremonial duties performed by the monarch include, reading of Queen's Speech and opening and closing of Parliament",
+        "question": "The ceremonial duties performed by the monarch include reading the King's Speech and opening the new parliamentary session each year",
         "options": [
             "True",
             "False"
@@ -35195,7 +35225,7 @@
         "id": "6f2b1be2"
     },
     {
-        "question": "The queen's eldest son, Prince Charles, is also known as?",
+        "question": "During Queen Elizabeth II's reign, her eldest son, Prince Charles, was also known as:",
         "options": [
             "The Commonwealth King",
             "The Prince of Wales",
@@ -35205,7 +35235,7 @@
         "answers": [
             1
         ],
-        "tip": "The Queen has reigned since her father's death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+        "tip": "Queen Elizabeth II reigned from 1952 until 2022. Her eldest son, Prince Charles, held the title Prince of Wales before becoming King Charles III.",
         "id": "6f2e6b42"
     },
     {
@@ -35379,7 +35409,7 @@
         "answers": [
             0
         ],
-        "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 27 EU member states",
+        "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973 and later left the EU on 31 January 2020. There are now 27 EU member states.",
         "id": "6fe277ab"
     },
     {
@@ -35576,9 +35606,9 @@
     {
         "question": "Who is the head of state of many Commonwealth countries?",
         "options": [
-            "Prince Charles",
+            "Prince William",
             "The Pope",
-            "The Queen",
+            "The King",
             "The Prime Minister"
         ],
         "answers": [
@@ -35602,7 +35632,7 @@
     {
         "question": "How many member states does the Commonwealth have?",
         "options": [
-            "53",
+            "56",
             "77",
             "28",
             "48"
@@ -35610,7 +35640,7 @@
         "answers": [
             0
         ],
-        "tip": "The Queen is the ceremonial head of the Commonwealth, which currently has 53 member states. Membership is voluntary.",
+        "tip": "The King is the ceremonial head of the Commonwealth, which currently has 56 member states. Membership is voluntary.",
         "id": "70a0c5a2"
     },
     {
@@ -36037,7 +36067,7 @@
         "question": "Who can only give ‘advice, warn and encourage’ about government matters?",
         "options": [
             "Members of the police",
-            "The Queen",
+            "The monarch",
             "The Speaker",
             "Prime Minister"
         ],
@@ -36109,6 +36139,7 @@
         "answers": [
             1
         ],
+        "tip": "This statement is false. Before the UK left the European Union, adult citizens of other EU states resident in the UK could vote in some elections (such as local and European Parliament elections) but not UK General Elections. As of 2025, EU citizens resident in the UK can vote in some local and devolved elections under specific agreements, but not UK General Elections unless they are also British, Irish or qualifying Commonwealth citizens.",
         "id": "720d4afb"
     },
     {
@@ -37015,8 +37046,9 @@
             "21"
         ],
         "answers": [
-            0
+            2
         ],
+        "tip": "People under 18 are not allowed to participate in the National Lottery. This includes buying scratch cards.",
         "id": "75300193"
     },
     {
@@ -37113,16 +37145,18 @@
         "id": "7564e03f"
     },
     {
-        "question": "British citizens can stand for office as a",
+        "question": "Which TWO of the following offices can British citizens stand for?",
         "options": [
             "Member of Parliament",
             "Local councillor",
             "Member of the European Parliament",
-            "All of the above"
+            "Police and Crime Commissioner"
         ],
         "answers": [
-            3
+            0,
+            1
         ],
+        "tip": "British citizens can stand for a range of elected offices in the UK, including as Members of Parliament (MPs) and local councillors. Since leaving the European Union, UK citizens no longer elect Members of the European Parliament.",
         "id": "75670be7"
     },
     {
@@ -37287,7 +37321,7 @@
         "id": "761df0e9"
     },
     {
-        "question": "Which TWO of these countries are currently in the EU?",
+        "question": "Which of these countries is currently in the EU?",
         "options": [
             "Turkey",
             "Russia",
@@ -37295,10 +37329,9 @@
             "UK"
         ],
         "answers": [
-            2,
-            3
+            2
         ],
-        "tip": "Russian and Turkey are not members of the EU",
+        "tip": "Poland is a member of the European Union. Russia, Turkey and the UK are not EU member states.",
         "id": "762874f2"
     },
     {
@@ -37580,7 +37613,8 @@
         "answers": [
             0
         ],
-        "id": "7728ff8b"
+        "id": "7728ff8b",
+        "tip": "MEP stands for Member of the European Parliament. The UK elected MEPs while it was a member of the European Union but has not had MEPs since leaving the EU in 2020."
     },
     {
         "question": "You can support your local community by becoming a school board member or school governor",
@@ -37976,7 +38010,7 @@
         "id": "78b4556e"
     },
     {
-        "question": "By which of these is The Queen referred to, in the first verse of the anthem?",
+        "question": "By which of these is the monarch referred to in the first verse of the UK national anthem?",
         "options": [
             "Royal",
             "Gentle",
@@ -37986,7 +38020,7 @@
         "answers": [
             2
         ],
-        "tip": "The first verse is:'God save our gracious Queen!Long live our noble Queen!God save the Queen!Send her victorious,Happy and glorious,Long to reign over us,God save the Queen!'",
+        "tip": "The first verse is:\n'God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!'",
         "id": "78b6119f"
     },
     {
@@ -38255,11 +38289,11 @@
         "id": "7975b02d"
     },
     {
-        "question": "The Head of the State and the monarch in both ceremonial and symbolic sense is",
+        "question": "The head of state and monarch of the UK in both ceremonial and symbolic senses is",
         "options": [
-            "The Queen's oldest son",
-            "The Queen's Husband",
-            "The Queen"
+            "The King's eldest son",
+            "The King's spouse",
+            "The King"
         ],
         "answers": [
             2
@@ -39027,7 +39061,7 @@
         "id": "7c2a34a5"
     },
     {
-        "question": "How often are European parliamentary elections held?",
+        "question": "While the UK was a member of the EU, how often were European parliamentary elections held?",
         "options": [
             "Every three years",
             "Every four years",
@@ -39037,7 +39071,7 @@
         "answers": [
             2
         ],
-        "tip": "",
+        "tip": "European parliamentary elections are held every five years. The UK left the European Union in 2020 and no longer elects Members of the European Parliament.",
         "id": "7c2cb84e"
     },
     {
@@ -39081,7 +39115,7 @@
         "id": "7c4f6df1"
     },
     {
-        "question": "The Queen can only, in a famous phrase,",
+        "question": "The monarch can only, in a famous phrase,",
         "options": [
             "Rule, govern, and reign",
             "Advise, warn and encourage",
@@ -39195,7 +39229,7 @@
         "id": "7cc8d32e"
     },
     {
-        "question": "The Queen is responsible for the opening of the new parliamentary session each year",
+        "question": "The monarch is responsible for the opening of the new parliamentary session each year",
         "options": [
             "False",
             "True"
@@ -39203,7 +39237,7 @@
         "answers": [
             1
         ],
-        "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government’s policies for the year ahead. All Acts of Parliament are made in her name.",
+        "tip": "The monarch has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead. All Acts of Parliament are made in the monarch's name.",
         "id": "7ccc9c71"
     },
     {
@@ -39801,8 +39835,9 @@
             "False"
         ],
         "answers": [
-            0
+            1
         ],
+        "tip": "Since leaving the European Union in 2020, EU law no longer automatically applies in the UK, although some retained EU law and special arrangements (for example in Northern Ireland) continue to operate.",
         "id": "7eae1f3b"
     },
     {
@@ -40089,7 +40124,7 @@
             "True"
         ],
         "answers": [
-            0
+            1
         ],
         "tip": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
         "id": "7f6cc371"
@@ -40270,7 +40305,7 @@
         "id": "7fedb737"
     },
     {
-        "question": "The European Union member states are",
+        "question": "Which of the following are current member states of the European Union?",
         "options": [
             "Germany",
             "India",
@@ -40278,15 +40313,15 @@
             "Nigeria",
             "New Zealand",
             "Romania",
-            "Swaziland",
+            "Eswatini",
             "UK"
         ],
         "answers": [
             0,
             2,
-            5,
-            7
+            5
         ],
+        "tip": "The UK is no longer a member of the European Union. Germany, Lithuania, and Romania are current EU member states. Eswatini (formerly Swaziland), India, Nigeria, and New Zealand are not EU members.",
         "id": "7ffb5cf3"
     }
 ]
