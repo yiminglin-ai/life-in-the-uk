@@ -1,7 +1,11 @@
 #!/bin/bash
 
 # Deploy script for Life in the UK App
-# Copies relevant files from master to gh-pages
+# Deploys from current repo to yiminglin-ai.github.io/life-in-the-uk
+
+TARGET_REPO="https://github.com/yiminglin-ai/yiminglin-ai.github.io.git"
+DEPLOY_DIR="deploy_stage"
+SUBDIR="life-in-the-uk"
 
 # Ensure we are on master
 if [[ $(git rev-parse --abbrev-ref HEAD) != "master" ]]; then
@@ -15,35 +19,44 @@ if [[ -n $(git status -s) ]]; then
     exit 1
 fi
 
-echo "Switching to gh-pages..."
-# If gh-pages doesn't exist locally, try to fetch it or create it
-if ! git show-ref --verify --quiet refs/heads/gh-pages; then
-    echo "Creating gh-pages branch..."
-    git checkout --orphan gh-pages
-    git rm -rf .
-    git clean -fdx
-else
-    git checkout gh-pages
-    git pull origin gh-pages || echo "Remote gh-pages might not exist yet, skipping pull."
+echo "Cleaning up previous deployment stage..."
+rm -rf $DEPLOY_DIR
+
+echo "Cloning target repository ($TARGET_REPO)..."
+git clone --depth 1 --branch gh-pages $TARGET_REPO $DEPLOY_DIR
+
+if [ ! -d "$DEPLOY_DIR" ]; then
+    echo "Error: Failed to clone target repository."
+    exit 1
 fi
 
 echo "Updating application files..."
+mkdir -p $DEPLOY_DIR/$SUBDIR
 
 FILES="index.html questions_base.json service-worker.js manifest.json icon_480.png favicon.ico"
 
 for f in $FILES; do
-    # Checkout file from master to current directory
-    git checkout master -- $f
+    cp $f $DEPLOY_DIR/$SUBDIR/
 done
 
-# Stage the changes
-git add $FILES
+cd $DEPLOY_DIR
 
-echo "Committing and pushing..."
-git commit -m "Deploy update to gh-pages"
-git push origin gh-pages
+# Configure git for the deploy directory
+git config user.name "Deploy Script"
+git config user.email "deploy@script.local"
 
-echo "Returning to master..."
-git checkout master
+echo "Staging changes..."
+git add $SUBDIR
 
-echo "Deployment complete! Application available at: https://yiminglin-ai.github.io/life-in-the-uk-2/"
+if git diff --staged --quiet; then
+    echo "No changes to deploy."
+else
+    echo "Committing and pushing..."
+    git commit -m "Update Life in the UK app from source"
+    git push origin gh-pages
+fi
+
+cd ..
+rm -rf $DEPLOY_DIR
+
+echo "Deployment complete! Application available at: https://yiminglin-ai.github.io/life-in-the-uk/"

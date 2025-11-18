@@ -10,7 +10,7 @@ This is a fork of the original [Life in the UK test](https://maxwellito.github.i
 
 ## Application Link
 
-The application is hosted at: [https://yiminglin-ai.github.io/life-in-the-uk-2/](https://yiminglin-ai.github.io/life-in-the-uk-2/)
+The application is hosted at: [https://yiminglin-ai.github.io/life-in-the-uk/](https://yiminglin-ai.github.io/life-in-the-uk/)
 
 ## Repository
 
