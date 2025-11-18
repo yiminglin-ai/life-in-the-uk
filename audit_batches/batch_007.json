@@ -66,11 +66,11 @@
     "id": "0ce94f3d"
   },
   {
-    "question": "Northern Ireland Assembly has ______ elected members",
+    "question": "The Northern Ireland Assembly has ______ elected members (MLAs)",
     "options": [
+      "90",
       "108",
-      "180",
-      "200"
+      "120"
     ],
     "answers": [
       0
@@ -117,7 +117,7 @@
     "id": "0d25233f"
   },
   {
-    "question": "The Welsh Assembly has the power to make laws in Health Services",
+    "question": "The Senedd (Welsh Parliament) has the power to make laws in health and social services",
     "options": [
       "True",
       "False"
@@ -125,7 +125,7 @@
     "answers": [
       0
     ],
-    "tip": "The Assembly has the power to make laws for Wales in 20 areas, including:\neducation and training\nhealth and social services\neconomic development\nhousing.",
+    "tip": "The Senedd (Welsh Parliament) has the power to make laws for Wales in devolved areas, including:\neducation and training\nhealth and social services\neconomic development\nhousing.",
     "id": "0d2a8896"
   },
   {
@@ -275,7 +275,7 @@
     "id": "0da5d514"
   },
   {
-    "question": "Can the National Anthem be played if the Queen is not present?",
+    "question": "Can the National Anthem be played if the monarch is not present?",
     "options": [
       "Yes",
       "No"
@@ -283,7 +283,7 @@
     "answers": [
       0
     ],
-    "tip": "",
+    "tip": "The National Anthem may be played on many occasions, whether or not the monarch is present.",
     "id": "0dc3f557"
   },
   {
@@ -408,7 +408,7 @@
     "id": "0e17e628"
   },
   {
-    "question": "In order to vote in a parliamentary, local, or European election, you must have your name on the register of electors, known as the electoral register",
+    "question": "In order to vote in a UK parliamentary or local election, you must have your name on the register of electors, known as the electoral register",
     "options": [
       "True",
       "False"
@@ -563,15 +563,15 @@
     "id": "0eec30a6"
   },
   {
-    "question": "The Queen is the ceremonial head of the Commonwealth, which currently has 27 member states",
+    "question": "The monarch (currently King Charles III) is the ceremonial Head of the Commonwealth, which currently has 56 member states",
     "options": [
       "False",
       "True"
     ],
     "answers": [
-      0
+      1
     ],
-    "tip": "The Commonwealth has 54 member states",
+    "tip": "The Head of the Commonwealth is the UK monarch (currently King Charles III). The Commonwealth is a voluntary association of 56 independent countries.",
     "id": "0f1b5e54"
   },
   {

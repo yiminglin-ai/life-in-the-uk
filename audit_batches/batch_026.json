@@ -356,8 +356,9 @@
       "False"
     ],
     "answers": [
-      0
+      1
     ],
+    "tip": "While the UK was a member of the European Union, EU law was an important source of law. Since the UK left the EU in 2020, EU law is no longer a direct source of law in Great Britain, although some domestic law still derives from former EU rules.",
     "id": "372851b2"
   },
   {
@@ -524,7 +525,7 @@
     "id": "3788b512"
   },
   {
-    "question": "How often are the European Parliament elections held?",
+    "question": "Before the UK left the European Union, how often were the European Parliament elections held in the UK?",
     "options": [
       "1",
       "3",
@@ -534,7 +535,7 @@
     "answers": [
       3
     ],
-    "tip": "Elections for the European Parliament are also held every five years. Elected members are called members of the European Parliament (MEPs). Elections to the European Parliament use a system of proportional representation, where seats are allocated to each party in proportion to the total number of votes it has won.",
+    "tip": "When the UK was a member of the European Union, elections for the European Parliament were held every five years. The UK no longer elects members of the European Parliament (MEPs).",
     "id": "3791d8be"
   },
   {

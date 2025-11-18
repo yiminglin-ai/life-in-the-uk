@@ -516,7 +516,7 @@
     "id": "7c2a34a5"
   },
   {
-    "question": "How often are European parliamentary elections held?",
+    "question": "While the UK was a member of the EU, how often were European parliamentary elections held?",
     "options": [
       "Every three years",
       "Every four years",
@@ -526,7 +526,7 @@
     "answers": [
       2
     ],
-    "tip": "",
+    "tip": "European parliamentary elections are held every five years. The UK left the European Union in 2020 and no longer elects Members of the European Parliament.",
     "id": "7c2cb84e"
   },
   {
@@ -570,7 +570,7 @@
     "id": "7c4f6df1"
   },
   {
-    "question": "The Queen can only, in a famous phrase,",
+    "question": "The monarch can only, in a famous phrase,",
     "options": [
       "Rule, govern, and reign",
       "Advise, warn and encourage",

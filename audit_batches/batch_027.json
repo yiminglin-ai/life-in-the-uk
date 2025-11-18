@@ -240,15 +240,15 @@
     "id": "38d2e989"
   },
   {
-    "question": "Members of the European Union can vote in all public UK elections",
+    "question": "Adult citizens of EU countries living in the UK cannot vote in UK General Elections solely because of their EU citizenship",
     "options": [
       "True",
       "False"
     ],
     "answers": [
-      1
+      0
     ],
-    "tip": "Adult citizens of other EU states who are resident in the UK can vote in all elections except General Elections.",
+    "tip": "As of 2025, citizens of EU countries resident in the UK can vote in some local and devolved elections under specific agreements, but they cannot vote in UK General Elections unless they are also British, Irish or qualifying Commonwealth citizens.",
     "id": "38d551dd"
   },
   {
@@ -635,7 +635,7 @@
     "id": "39fcb181"
   },
   {
-    "question": "You can serve on a jury up to the age of 80.",
+    "question": "You can serve on a jury up to the age of 80",
     "options": [
       "True",
       "False"
@@ -643,7 +643,7 @@
     "answers": [
       1
     ],
-    "tip": "The age limit for jury service is 70. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do jury service.",
+    "tip": "In England and Wales, the upper age limit for jury service is 75. Anyone who is on the electoral register and is aged 18 to 75 can be asked to do jury service.",
     "id": "3a0344c6"
   }
 ]

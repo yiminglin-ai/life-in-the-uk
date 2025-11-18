@@ -39,7 +39,7 @@
     "id": "2f1b7a02"
   },
   {
-    "question": "How often are elections for the European Parliament held?",
+    "question": "Before the UK left the European Union, how often were elections for the European Parliament held in the UK?",
     "options": [
       "Annually",
       "Every two years",
@@ -49,7 +49,7 @@
     "answers": [
       2
     ],
-    "tip": "Elections for the European Parliament are held every five years. Elected members are called members of the European Parliament (MEPs).",
+    "tip": "When the UK was a member of the European Union, elections for the European Parliament were held every five years. The UK no longer elects members of the European Parliament (MEPs).",
     "id": "2f24d64d"
   },
   {
@@ -149,7 +149,7 @@
     "id": "2f7e4628"
   },
   {
-    "question": "How old do you have to be to participate in the National Lottery?",
+    "question": "How old do you have to be to participate in the National Lottery in the UK?",
     "options": [
       "15",
       "17",
@@ -157,9 +157,9 @@
       "18"
     ],
     "answers": [
-      2
+      3
     ],
-    "tip": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. People under 16 are not allowed to participate in the National Lottery.",
+    "tip": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. Since 2021, people must be 18 or over to participate in the National Lottery in the UK.",
     "id": "2f80af07"
   },
   {

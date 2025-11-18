@@ -329,7 +329,7 @@
     "answers": [
       0
     ],
-    "tip": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012. ",
+    "tip": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012. ",
     "id": "098388ac"
   },
   {
@@ -421,11 +421,11 @@
     "answers": [
       0
     ],
-    "tip": "Owing money is a civil offence",
+    "tip": "Owing money is a civil matter, not a criminal offence.",
     "id": "09be37ca"
   },
   {
-    "question": "Anne Boleyn the wife of Henry VIII was a ______ princess, she and Henry had one daughter, Elizabeth",
+    "question": "Anne Boleyn, the wife of Henry VIII, was ______ by birth; she and Henry had one daughter, Elizabeth",
     "options": [
       "German",
       "French",
@@ -509,12 +509,12 @@
       "The Red Cross",
       "NSPCC",
       "The National Trust",
-      "Historic Scotland"
+      "Historic Environment Scotland"
     ],
     "answers": [
       3
     ],
-    "tip": "The Edinburgh Castle has a long history, dating back to the early Middle Ages. It is looked after by Historic Scotland, a Scottish government agency.",
+    "tip": "Edinburgh Castle has a long history, dating back to the early Middle Ages. It is cared for by Historic Environment Scotland, a public body of the Scottish Government.",
     "id": "0a19a299"
   },
   {
@@ -556,12 +556,12 @@
     "id": "0a41c0c8"
   },
   {
-    "question": "Which invention lead to the rapid development of the industry in Britain during the 18th and 19th centuries?",
+    "question": "Which invention led to the rapid development of industry in Britain during the 18th and 19th centuries?",
     "options": [
-      "The Radar",
-      "The Steam Power",
-      "The Jet Engine",
-      "The Turing Machine"
+      "Radar",
+      "Steam power",
+      "The jet engine",
+      "The Turing machine"
     ],
     "answers": [
       1

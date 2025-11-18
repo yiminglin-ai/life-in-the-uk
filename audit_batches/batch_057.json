@@ -122,7 +122,7 @@
     "id": "761df0e9"
   },
   {
-    "question": "Which TWO of these countries are currently in the EU?",
+    "question": "Which of these countries is currently in the EU?",
     "options": [
       "Turkey",
       "Russia",
@@ -130,10 +130,9 @@
       "UK"
     ],
     "answers": [
-      2,
-      3
+      2
     ],
-    "tip": "Russian and Turkey are not members of the EU",
+    "tip": "Poland is a member of the European Union. Russia, Turkey and the UK are not EU member states.",
     "id": "762874f2"
   },
   {

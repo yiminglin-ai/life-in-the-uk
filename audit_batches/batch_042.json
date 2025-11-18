@@ -153,7 +153,7 @@
     "id": "57b60b24"
   },
   {
-    "question": "People over 75 years of age do not have to pay for a television licence.",
+    "question": "Some people aged 75 or over who receive Pension Credit do not have to pay for a television licence.",
     "options": [
       "True",
       "False"
@@ -161,7 +161,7 @@
     "answers": [
       0
     ],
-    "tip": "Everyone over 75 years of age can apply for a free television licence. Everyone in the UK with a television, computer or other medium which can be used for watching TV must have a television licence.",
+    "tip": "Everyone in the UK with a television, computer or other device which can be used for watching TV must have a television licence. Under the current scheme, some people aged 75 or over who receive Pension Credit are eligible for a free TV licence; it is not automatic for everyone over 75.",
     "id": "57c38ef5"
   },
   {
@@ -362,17 +362,17 @@
     "id": "5836cf28"
   },
   {
-    "question": "How many members does The Northern Ireland Assembly have?",
+    "question": "How many elected members does the Northern Ireland Assembly have?",
     "options": [
-      "119",
+      "90",
       "108",
       "110",
       "129"
     ],
     "answers": [
-      1
+      0
     ],
-    "tip": "The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998. There is a power-sharing agreement which distributes ministerial Offices amongst the main parties. The Assembly has 108 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation.",
+    "tip": "The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998. There is a power-sharing agreement which distributes ministerial offices amongst the main parties. As of 2025, the Assembly has 90 elected members, known as MLAs (Members of the Legislative Assembly). They are elected with a form of proportional representation.",
     "id": "583707cc"
   },
   {

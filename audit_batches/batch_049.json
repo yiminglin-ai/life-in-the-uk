@@ -252,7 +252,7 @@
     "answers": [
       3
     ],
-    "tip": "Elections for the European Parliament are also held every five years. Elected members are called members of the European Parliament (MEPs).",
+    "tip": "While the UK was a member of the European Union, elections for the European Parliament were held every five years. Across the EU, elected members are called Members of the European Parliament (MEPs).",
     "id": "668e3f11"
   },
   {
@@ -327,15 +327,15 @@
   {
     "question": "What is the title of the UK National Anthem?",
     "options": [
-      "Long Live the Queen",
-      "God Save the Queen",
+      "Long Live the King",
+      "God Save the King",
       "Long Live the Monarch",
-      "Almighty is the Queen"
+      "Almighty is the King"
     ],
     "answers": [
       1
     ],
-    "tip": "The UK National Anthem is called 'God Save the Queen' and is played at important national occasions and events attended by the Queen or the Royal Family.",
+    "tip": "The UK National Anthem is called 'God Save the King' and is played at important national occasions and events attended by the monarch or the Royal Family.",
     "id": "66bcc3d2"
   },
   {
@@ -616,7 +616,7 @@
       1,
       2
     ],
-    "tip": "Australia and Canada are members of the Commonwealth. The Queen is the ceremonial head of the Commonwealth, which currently has 54 member states.",
+    "tip": "Australia and Canada are members of the Commonwealth. The King is the ceremonial head of the Commonwealth, which currently has 56 member states.",
     "id": "675eb117"
   },
   {

@@ -458,6 +458,7 @@
     "answers": [
       0
     ],
+    "tip": "Elections to the European Parliament use proportional representation. The UK no longer takes part in these elections since leaving the European Union in 2020.",
     "id": "3c1f7262"
   },
   {
@@ -475,14 +476,15 @@
   {
     "question": "Who is the head of state of the UK?",
     "options": [
-      "Queen Elizabeth II",
-      "King George III",
-      "Queen Victoria",
-      "Winston Churchill"
+      "The monarch",
+      "The Prime Minister",
+      "The Speaker of the House of Commons",
+      "The Archbishop of Canterbury"
     ],
     "answers": [
       0
     ],
+    "tip": "The UK is a constitutional monarchy. As of 2025, the head of state is King Charles III.",
     "id": "3c2dbec1"
   },
   {

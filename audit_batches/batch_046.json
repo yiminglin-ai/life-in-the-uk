@@ -199,17 +199,17 @@
     "id": "5fd74ca2"
   },
   {
-    "question": "How many countries make up the EU?",
+    "question": "How many countries make up the European Union (EU) as of 2025?",
     "options": [
+      "27",
       "28",
-      "190",
-      "15",
-      "54"
+      "54",
+      "190"
     ],
     "answers": [
       0
     ],
-    "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 28 EU member states",
+    "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but became a member in 1973; it left the EU on 31 January 2020. As of 2025 there are 27 EU member states.",
     "id": "5fed472b"
   },
   {
@@ -621,7 +621,7 @@
     "answers": [
       3
     ],
-    "tip": "EU law is legally binding in the UK and all the other EU member states. European laws are called directives, regulations or framework decisions.",
+    "tip": "Before the UK left the European Union, EU law was legally binding in the UK as well as in other EU member states. Since 2020, EU law no longer automatically applies in the UK, although some retained EU law and special arrangements (for example in Northern Ireland) continue to operate. European laws are called directives, regulations or framework decisions.",
     "id": "61713b55"
   },
   {

@@ -64,7 +64,7 @@
     "id": "15e9a078"
   },
   {
-    "question": "What’s the Queen’s speech for?",
+    "question": "What is the King's (or Queen's) Speech for?",
     "options": [
       "Encourage the youth to persuade education",
       "Give advise to the general public",
@@ -74,7 +74,7 @@
     "answers": [
       3
     ],
-    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government’s policies for the year ahead. All Acts of Parliament are made in her name.",
+    "tip": "The monarch has important ceremonial roles, such as the State Opening of Parliament each year. On this occasion the King's (or Queen's) Speech sets out the government’s plans and legislative programme for the year ahead. All Acts of Parliament are made in the monarch's name.",
     "id": "15fb7439"
   },
   {
@@ -171,7 +171,7 @@
     "id": "16519cfb"
   },
   {
-    "question": "What UK landmark was voted as Britain's favourite view?",
+    "question": "Which area contains Wastwater, which television viewers voted Britain's favourite view in 2007?",
     "options": [
       "The Lake District",
       "Snowdonia",
@@ -181,7 +181,7 @@
     "answers": [
       0
     ],
-    "tip": "The Lake District is England's largest national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater as Britain's favourite view.",
+    "tip": "The Lake District is England's largest national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater, a lake in the Lake District, as Britain's favourite view.",
     "id": "1657ce0d"
   },
   {
@@ -223,7 +223,7 @@
     "answers": [
       0
     ],
-    "tip": "People over 75 can apply for a free TV licence and blind people can get a 50% discount.",
+    "tip": "Blind or severely sight-impaired people can get a 50% discount on their TV licence. Some people aged 75 or over who receive Pension Credit can get a free TV licence under current rules.",
     "id": "1681a801"
   },
   {
@@ -253,7 +253,7 @@
     "id": "16932e75"
   },
   {
-    "question": "Who does not have to pay for a TV licence?",
+    "question": "From what age might people in the UK be eligible for a free TV licence (subject to meeting the current benefit criteria)?",
     "options": [
       "People aged 60 or over",
       "People aged 65 or over",
@@ -263,6 +263,7 @@
     "answers": [
       3
     ],
+    "tip": "Under the current scheme, some people aged 75 or over who receive Pension Credit are eligible for a free TV licence.",
     "id": "1697c533"
   },
   {
@@ -408,9 +409,9 @@
       "True"
     ],
     "answers": [
-      0
+      1
     ],
-    "tip": "You have to be 16 to participate in the National Lottery",
+    "tip": "You must be 18 or over to take part in the National Lottery. The minimum age was raised from 16 to 18 in 2021.",
     "id": "16ec3180"
   },
   {
@@ -564,7 +565,7 @@
     "answers": [
       0
     ],
-    "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 28 EU member states.",
+    "tip": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. There are now 27 EU member states, and the UK left the EU on 31 January 2020.",
     "id": "17607c32"
   },
   {

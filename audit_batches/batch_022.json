@@ -290,14 +290,14 @@
     "id": "2e4f6c77"
   },
   {
-    "question": "If you are an EU citizen living in the United Kingdom you can vote in all British public elections",
+    "question": "If you are a citizen of an EU country living in the United Kingdom, you cannot vote in UK General Elections solely on the basis of your EU citizenship",
     "options": [
       "True",
       "False"
     ],
-    "tip": "All elections except General Elections",
+    "tip": "As of 2025, citizens of EU countries resident in the UK can vote in some local and devolved elections under specific agreements, but they cannot vote in UK General Elections unless they are also British, Irish or qualifying Commonwealth citizens.",
     "answers": [
-      1
+      0
     ],
     "id": "2e569b15"
   },

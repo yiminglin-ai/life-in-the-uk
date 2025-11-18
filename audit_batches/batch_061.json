@@ -255,7 +255,7 @@
       "True"
     ],
     "answers": [
-      0
+      1
     ],
     "tip": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
     "id": "7f6cc371"
@@ -436,7 +436,7 @@
     "id": "7fedb737"
   },
   {
-    "question": "The European Union member states are",
+    "question": "Which of the following are current member states of the European Union?",
     "options": [
       "Germany",
       "India",
@@ -444,15 +444,15 @@
       "Nigeria",
       "New Zealand",
       "Romania",
-      "Swaziland",
+      "Eswatini",
       "UK"
     ],
     "answers": [
       0,
       2,
-      5,
-      7
+      5
     ],
+    "tip": "The UK is no longer a member of the European Union. Germany, Lithuania, and Romania are current EU member states. Eswatini (formerly Swaziland), India, Nigeria, and New Zealand are not EU members.",
     "id": "7ffb5cf3"
   }
 ]

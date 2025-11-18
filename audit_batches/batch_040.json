@@ -27,7 +27,7 @@
     "id": "52ef96fd"
   },
   {
-    "question": "The Queen is married to Prince Phillip",
+    "question": "Queen Elizabeth II was married to Prince Philip, Duke of Edinburgh.",
     "options": [
       "False",
       "True"
@@ -35,7 +35,7 @@
     "answers": [
       1
     ],
-    "tip": "The statement is true",
+    "tip": "Queen Elizabeth II was married to Prince Philip, Duke of Edinburgh, until his death in 2021. She reigned until her own death in 2022.",
     "id": "52fa16e1"
   },
   {
@@ -149,9 +149,9 @@
       "21"
     ],
     "answers": [
-      0
+      2
     ],
-    "tip": "People under 16 are not allowed to participate in the National Lottery. This includes buying Scratch Cards.",
+    "tip": "People under 18 are not allowed to participate in the National Lottery. This includes buying Scratch Cards.",
     "id": "53560f09"
   },
   {

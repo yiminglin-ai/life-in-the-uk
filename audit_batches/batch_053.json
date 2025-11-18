@@ -278,7 +278,7 @@
     "id": "6e4108e3"
   },
   {
-    "question": "All acts of Parliaments made in who's name?",
+    "question": "All Acts of Parliament are made in whose name?",
     "options": [
       "The King's",
       "The Queen's",
@@ -286,9 +286,9 @@
       "The Cabinet's"
     ],
     "answers": [
-      1
+      0
     ],
-    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+    "tip": "The monarch has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in his name.",
     "id": "6e453547"
   },
   {
@@ -647,7 +647,7 @@
     "id": "6efed3b8"
   },
   {
-    "question": "The Ceremonial duties performed by the monarch include, reading of Queen's Speech and opening and closing of Parliament",
+    "question": "The ceremonial duties performed by the monarch include reading the King's Speech and opening the new parliamentary session each year",
     "options": [
       "True",
       "False"

@@ -24,7 +24,7 @@
     "answers": [
       0
     ],
-    "tip": "Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. This led to the English Civil war in 1642.",
+    "tip": "Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. This led to the English Civil war in 1642.",
     "id": "065599fe"
   },
   {
@@ -172,7 +172,7 @@
     "id": "06ccd847"
   },
   {
-    "question": "Which TWO words appear in the first two lines of the national anthem 'God save the Queen'?",
+    "question": "Which TWO words appear in the first two lines of the national anthem 'God Save the King'?",
     "options": [
       "Gracious",
       "Noble",
@@ -183,11 +183,11 @@
       0,
       1
     ],
-    "tip": "The first verse is: 'God save our gracious Queen! Long live our noble Queen! God save the Queen! Send her victorious, Happy and glorious, Long to reign over us, God save the Queen!'.",
+    "tip": "The first verse is: 'God save our gracious King! Long live our noble King!'.",
     "id": "06d06b6b"
   },
   {
-    "question": "The National Assembly elections are held every ____ years using a form of proportional representation",
+    "question": "Elections to the Senedd (Welsh Parliament) are held every ____ years using a form of proportional representation",
     "options": [
       "one",
       "two",
@@ -195,8 +195,9 @@
       "five"
     ],
     "answers": [
-      2
+      3
     ],
+    "tip": "Since 2011, Senedd terms have been five years. Members are elected using the Additional Member System (a form of proportional representation).",
     "id": "06dcf72e"
   },
   {
@@ -379,7 +380,7 @@
     "answers": [
       2
     ],
-    "tip": "In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. This event was later called the ‘Glorious Revolution’ because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.",
+    "tip": "In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. This event was later called the ‘Glorious Revolution’ because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.",
     "id": "073c64b4"
   },
   {
@@ -520,17 +521,17 @@
     "id": "07b71107"
   },
   {
-    "question": "What is the name of the first major railway built in Britain?",
+    "question": "Which railway, opened in 1830, is widely regarded as the world's first inter-city passenger railway?",
     "options": [
+      "Liverpool and Manchester Railway",
+      "Great Western Railway",
       "Southern Railway",
-      "Victorian Rail",
-      "Blue Rail",
-      "The Great Western Railway"
+      "London and North Eastern Railway"
     ],
     "answers": [
-      3
+      0
     ],
-    "tip": "The Great Western Railway is the name of the first major railway built in Britain.",
+    "tip": "The Liverpool and Manchester Railway opened in 1830 and is widely considered the first inter-city passenger railway.",
     "id": "07c3d286"
   },
   {
@@ -681,7 +682,7 @@
     "answers": [
       2
     ],
-    "tip": "Sir Steve Redgrave won gold medals in rowing in five consecutive Olympic Games and is one of Britain’s greatest Olympians.",
+    "tip": "Sir Steve Redgrave won gold medals in rowing in five consecutive Olympic Games and is one of Britain’s greatest Olympians.",
     "id": "082a2f7d"
   }
 ]

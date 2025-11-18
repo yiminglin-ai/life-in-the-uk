@@ -240,15 +240,15 @@
     "id": "4380bc01"
   },
   {
-    "question": "Scotland and Wales use a system called 'individual registration' where all those entitled to vote must complete their own registration form.",
+    "question": "In Northern Ireland, a system called 'individual registration' operates and all those entitled to vote must complete their own registration form.",
     "options": [
       "True",
       "False"
     ],
     "answers": [
-      1
+      0
     ],
-    "tip": "",
+    "tip": "In Northern Ireland, a system called 'individual registration' operates and all those entitled to vote must complete their own registration form. Individual electoral registration has also been introduced in the rest of the UK.",
     "id": "438f1e55"
   },
   {

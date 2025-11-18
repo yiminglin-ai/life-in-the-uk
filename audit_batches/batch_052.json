@@ -25,7 +25,7 @@
     "id": "6bbcde8e"
   },
   {
-    "question": "New citizens ______ loyalty to the Queen as part of the citizenship ceremony",
+    "question": "New citizens ______ loyalty to the King as part of the citizenship ceremony",
     "options": [
       "send",
       "swear",
@@ -36,6 +36,7 @@
       1,
       2
     ],
+    "tip": "As part of the citizenship ceremony, new citizens swear or affirm loyalty to His Majesty King Charles III and pledge to respect the rights, freedoms and laws of the UK.",
     "id": "6bc0e6e8"
   },
   {
@@ -440,14 +441,15 @@
   {
     "question": "The Northern Ireland Assembly has ______ elected members, known as MLAs (members of the Legislative Assembly)",
     "options": [
+      "90",
       "108",
       "118",
-      "128",
-      "138"
+      "128"
     ],
     "answers": [
       0
     ],
+    "tip": "As of 2025, the Northern Ireland Assembly has 90 elected members, known as MLAs (Members of the Legislative Assembly).",
     "id": "6c9cd563"
   },
   {

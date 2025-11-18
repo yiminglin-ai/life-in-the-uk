@@ -135,7 +135,7 @@
     "id": "78b4556e"
   },
   {
-    "question": "By which of these is The Queen referred to, in the first verse of the anthem?",
+    "question": "By which of these is the monarch referred to in the first verse of the UK national anthem?",
     "options": [
       "Royal",
       "Gentle",
@@ -145,7 +145,7 @@
     "answers": [
       2
     ],
-    "tip": "The first verse is:'God save our gracious Queen!Long live our noble Queen!God save the Queen!Send her victorious,Happy and glorious,Long to reign over us,God save the Queen!'",
+    "tip": "The first verse is:\n'God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!'",
     "id": "78b6119f"
   },
   {
@@ -414,11 +414,11 @@
     "id": "7975b02d"
   },
   {
-    "question": "The Head of the State and the monarch in both ceremonial and symbolic sense is",
+    "question": "The head of state and monarch of the UK in both ceremonial and symbolic senses is",
     "options": [
-      "The Queen's oldest son",
-      "The Queen's Husband",
-      "The Queen"
+      "The King's eldest son",
+      "The King's spouse",
+      "The King"
     ],
     "answers": [
       2

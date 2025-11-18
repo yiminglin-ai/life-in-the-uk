@@ -15,15 +15,15 @@
     "id": "4495a744"
   },
   {
-    "question": "Everyone in England, Wales and Scotland have to fill in individual electoral registration form. (Also known as ‘Individual Registration’)",
+    "question": "Everyone in the UK has to register individually to vote (a system known as ‘individual electoral registration’).",
     "options": [
       "False",
       "True"
     ],
     "answers": [
-      0
+      1
     ],
-    "tip": "This system operates in Northern Ireland. This is called ‘individual registration’ and all those entitled to vote must complete their own registration form",
+    "tip": "A system of individual electoral registration operates across the UK and everyone entitled to vote must complete their own registration form.",
     "id": "449c70bf"
   },
   {
@@ -206,7 +206,7 @@
     "id": "4556607b"
   },
   {
-    "question": "How is the Queen's husband, Prince Philip, often called?",
+    "question": "What title was held by Prince Philip, husband of Queen Elizabeth II?",
     "options": [
       "The Duke of London",
       "The Duke of Swansea",
@@ -216,7 +216,7 @@
     "answers": [
       3
     ],
-    "tip": "The Queen has reigned since her father's death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+    "tip": "Queen Elizabeth II reigned from 1952 until 2022. Her husband, Prince Philip, held the title Duke of Edinburgh.",
     "id": "4557211a"
   },
   {

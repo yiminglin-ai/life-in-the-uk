@@ -447,17 +447,17 @@
     "id": "3533aaf5"
   },
   {
-    "question": "Who is the next heir to the throne?",
+    "question": "Who is the heir to the throne of the United Kingdom?",
     "options": [
-      "Prince William",
+      "Prince William, Prince of Wales",
       "The Prime Minister",
-      "The Queen's husband",
-      "The Queen's eldest son"
+      "The monarch's spouse",
+      "The Speaker of the House of Commons"
     ],
     "answers": [
-      3
+      0
     ],
-    "tip": "The Queen has reigned since her father’s death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+    "tip": "As of 2025, the heir to the throne is Prince William, Prince of Wales, the eldest son of King Charles III.",
     "id": "3550b6ce"
   },
   {
@@ -487,15 +487,15 @@
     "id": "356a2f94"
   },
   {
-    "question": "There is no upper age limit for doing jury service",
+    "question": "There is an upper age limit for doing jury service",
     "options": [
       "False",
       "True"
     ],
     "answers": [
-      0
+      1
     ],
-    "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+    "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. In England and Wales, anyone who is on the electoral register and is aged 18 to 75 can be asked to do this.",
     "id": "3577fe61"
   },
   {
@@ -504,9 +504,9 @@
       "True",
       "False"
     ],
-    "tip": "The age limit for jury service is 70",
+    "tip": "In England and Wales, the upper age limit for jury service is 75.",
     "answers": [
-      1
+      0
     ],
     "id": "35794bd5"
   },
@@ -553,7 +553,7 @@
     "id": "358bccbe"
   },
   {
-    "question": "New citizens ______ loyalty to the Queen as part of the citizenship ceremony.",
+    "question": "New citizens ______ loyalty to the monarch as part of the citizenship ceremony.",
     "options": [
       "Affirm",
       "Send",
@@ -564,7 +564,7 @@
       0,
       2
     ],
-    "tip": "New citizens swear or affirm loyalty to the Queen as part of the citizenship ceremony.",
+    "tip": "New citizens swear or affirm loyalty to the monarch (currently King Charles III) as part of the citizenship ceremony.",
     "id": "3597372c"
   },
   {

@@ -373,7 +373,7 @@
     "id": "646c9e58"
   },
   {
-    "question": "People over 75 years of age don't have to pay for a TV licence",
+    "question": "Some people aged 75 or over who receive Pension Credit don't have to pay for a TV licence",
     "options": [
       "True",
       "False"
@@ -381,6 +381,7 @@
     "answers": [
       0
     ],
+    "tip": "Under the current scheme, some people aged 75 or over who receive Pension Credit are eligible for a free TV licence; it is not automatic for everyone over 75.",
     "id": "64b7225f"
   },
   {

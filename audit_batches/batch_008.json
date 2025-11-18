@@ -252,7 +252,7 @@
     "id": "1030f8d2"
   },
   {
-    "question": "How can you visit the Welsh Assembly?",
+    "question": "How can you visit the Welsh Parliament (Senedd Cymru)?",
     "options": [
       "Using the booking service",
       "By contacting the education service",
@@ -262,7 +262,7 @@
     "answers": [
       0
     ],
-    "tip": "The Senedd is an open building. You can book guided tours or seats in the public galleries for the Welsh Assembly. To make a booking, contact the Assembly Booking Service",
+    "tip": "The Senedd (Welsh Parliament) is an open building. You can book guided tours or seats in the public galleries. To make a booking, use the official booking service.",
     "id": "10358b93"
   },
   {
@@ -411,7 +411,7 @@
     "answers": [
       2
     ],
-    "tip": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+    "tip": "As well as getting the right to vote, people on the electoral register can be randomly selected to serve on a jury. In the UK, adults aged 18 or over on the electoral register can be called for jury service, subject to upper age limits and eligibility rules that vary between the different nations.",
     "id": "10bae223"
   },
   {
@@ -615,7 +615,7 @@
     "id": "11591bae"
   },
   {
-    "question": "How often are general elections held in the UK?",
+    "question": "What is the maximum period between general elections in the UK?",
     "options": [
       "Every 3 years",
       "Every 4 years",
@@ -625,7 +625,7 @@
     "answers": [
       2
     ],
-    "tip": "",
+    "tip": "A UK Parliament can last for a maximum of five years from its first meeting, so a general election must be held at least every five years.",
     "id": "116855fb"
   },
   {

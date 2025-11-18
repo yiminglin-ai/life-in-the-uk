@@ -503,8 +503,9 @@
       "21"
     ],
     "answers": [
-      0
+      2
     ],
+    "tip": "People under 18 are not allowed to participate in the National Lottery. This includes buying scratch cards.",
     "id": "75300193"
   },
   {
@@ -601,16 +602,18 @@
     "id": "7564e03f"
   },
   {
-    "question": "British citizens can stand for office as a",
+    "question": "Which TWO of the following offices can British citizens stand for?",
     "options": [
       "Member of Parliament",
       "Local councillor",
       "Member of the European Parliament",
-      "All of the above"
+      "Police and Crime Commissioner"
     ],
     "answers": [
-      3
+      0,
+      1
     ],
+    "tip": "British citizens can stand for a range of elected offices in the UK, including as Members of Parliament (MPs) and local councillors. Since leaving the European Union, UK citizens no longer elect Members of the European Parliament.",
     "id": "75670be7"
   },
   {

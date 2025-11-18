@@ -37,17 +37,17 @@
     "id": "2b9b0153"
   },
   {
-    "question": "What is the title of the Queen's eldest son, Prince Charles?",
+    "question": "What is the title of the current monarch of the United Kingdom, Charles III?",
     "options": [
-      "Prince of Kent",
       "Prince of Wales",
-      "Prince of Hanover",
-      "Prince of Brunswick"
+      "King Charles III",
+      "Duke of Edinburgh",
+      "Prince of Hanover"
     ],
     "answers": [
       1
     ],
-    "tip": "",
+    "tip": "As of 2025, the monarch of the United Kingdom is King Charles III.",
     "id": "2ba6bfb0"
   },
   {
@@ -521,7 +521,7 @@
     "id": "2d3814df"
   },
   {
-    "question": "Can the anthem 'God save the queen' be played only in presence of the queen?",
+    "question": "Can the National Anthem be played only when the monarch is present?",
     "options": [
       "True",
       "False"
@@ -529,7 +529,7 @@
     "answers": [
       1
     ],
-    "tip": "You can play the anthem in anyone's presence.",
+    "tip": "The National Anthem may be played whether or not the monarch is present.",
     "id": "2d411514"
   },
   {
@@ -562,7 +562,7 @@
     "id": "2d43d2e8"
   },
   {
-    "question": "The National Assembly has ______ Assembly members",
+    "question": "The Senedd (Welsh Parliament) has ______ members",
     "options": [
       "60",
       "70",

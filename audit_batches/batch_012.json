@@ -100,8 +100,9 @@
       "19"
     ],
     "answers": [
-      0
+      2
     ],
+    "tip": "You must be 18 or over to take part in the National Lottery. The minimum age was raised from 16 to 18 in 2021.",
     "id": "17de2aaf"
   },
   {
@@ -160,17 +161,17 @@
     "id": "1847918b"
   },
   {
-    "question": "Who makes a speech which summarises the government's policies for the year ahead?",
+    "question": "Who makes the speech, known as the King's (or Queen's) Speech, which summarises the government's policies for the year ahead?",
     "options": [
+      "The monarch",
       "The Prime Minister",
-      "The Queen",
-      "The Cabinet",
-      "Local Authorities"
+      "The Speaker of the House of Commons",
+      "The Leader of the Opposition"
     ],
     "answers": [
-      1
+      0
     ],
-    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+    "tip": "At the State Opening of Parliament, the monarch reads the King's (or Queen's) Speech, which sets out the government's plans and legislative programme for the coming year.",
     "id": "184cf8a4"
   },
   {
@@ -394,7 +395,7 @@
     "id": "19251c98"
   },
   {
-    "question": "How many members does The National Assembly for Wales have?",
+    "question": "How many Members of the Senedd (MSs) does the Welsh Parliament have?",
     "options": [
       "50",
       "60",
@@ -404,6 +405,7 @@
     "answers": [
       1
     ],
+    "tip": "The Welsh Parliament (Senedd Cymru) has 60 Members of the Senedd (MSs).",
     "id": "193dc22a"
   },
   {

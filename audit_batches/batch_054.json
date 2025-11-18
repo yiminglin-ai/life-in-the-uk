@@ -14,7 +14,7 @@
     "id": "6f2b1be2"
   },
   {
-    "question": "The queen's eldest son, Prince Charles, is also known as?",
+    "question": "During Queen Elizabeth II's reign, her eldest son, Prince Charles, was also known as:",
     "options": [
       "The Commonwealth King",
       "The Prince of Wales",
@@ -24,7 +24,7 @@
     "answers": [
       1
     ],
-    "tip": "The Queen has reigned since her father's death in 1952, and in 2012 she celebrated her Diamond Jubilee (60 years as queen). She is married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+    "tip": "Queen Elizabeth II reigned from 1952 until 2022. Her eldest son, Prince Charles, held the title Prince of Wales before becoming King Charles III.",
     "id": "6f2e6b42"
   },
   {
@@ -395,9 +395,9 @@
   {
     "question": "Who is the head of state of many Commonwealth countries?",
     "options": [
-      "Prince Charles",
+      "Prince William",
       "The Pope",
-      "The Queen",
+      "The King",
       "The Prime Minister"
     ],
     "answers": [
@@ -421,7 +421,7 @@
   {
     "question": "How many member states does the Commonwealth have?",
     "options": [
-      "53",
+      "56",
       "77",
       "28",
       "48"
@@ -429,7 +429,7 @@
     "answers": [
       0
     ],
-    "tip": "The Queen is the ceremonial head of the Commonwealth, which currently has 53 member states. Membership is voluntary.",
+    "tip": "The King is the ceremonial head of the Commonwealth, which currently has 56 member states. Membership is voluntary.",
     "id": "70a0c5a2"
   },
   {

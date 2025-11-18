@@ -14,7 +14,7 @@
     "id": "1395c004"
   },
   {
-    "question": "______ developed ideas about human nature continue to influence philosophers",
+    "question": "Whose ideas about human nature continue to influence philosophers?",
     "options": [
       "Adam Smith",
       "James Watt",
@@ -27,16 +27,17 @@
     "id": "13a56457"
   },
   {
-    "question": "Who does make a speech which summarises the government's policies for the year ahead?",
+    "question": "Who makes the speech, known as the King's (or Queen's) Speech, which summarises the government's policies for the year ahead?",
     "options": [
-      "The Queen's husband",
-      "The Queen's oldest son",
+      "The monarch",
       "The Prime Minister",
-      "The Queen"
+      "The Speaker of the House of Commons",
+      "The Leader of the Opposition"
     ],
     "answers": [
-      3
+      0
     ],
+    "tip": "At the State Opening of Parliament, the monarch reads the King's (or Queen's) Speech, which sets out the government's plans for the coming year.",
     "id": "13aa070b"
   },
   {
@@ -118,7 +119,7 @@
     "answers": [
       0
     ],
-    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body, such as the Independent Office for Police Conduct in England and Wales, the Police Investigations & Review Commissioner in Scotland or the Police Ombudsman for Northern Ireland.",
     "id": "13dff8bf"
   },
   {
@@ -135,7 +136,7 @@
     "id": "13e13257"
   },
   {
-    "question": "How many AMs does the Welsh government have?",
+    "question": "How many Members of the Senedd (MSs) does the Welsh Parliament have?",
     "options": [
       "129",
       "60",
@@ -145,7 +146,7 @@
     "answers": [
       1
     ],
-    "tip": "The Welsh government and National Assembly for Wales are based in Cardiff, the capital city of Wales. The National Assembly has 60 Assembly members (AMs) and elections are held every four years using a form of proportional representation. Members can speak in either Welsh or English and all of the Assembly’s publications are in both languages. ",
+    "tip": "The Welsh Government and Welsh Parliament (Senedd Cymru) are based in Cardiff, the capital city of Wales. The Senedd has 60 Members of the Senedd (MSs), elected using a form of proportional representation. Members can speak in either Welsh or English and the Senedd’s publications are in both languages.",
     "id": "13eaac29"
   },
   {

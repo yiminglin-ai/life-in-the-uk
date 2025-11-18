@@ -180,7 +180,7 @@
     "answers": [
       1
     ],
-    "tip": "The Queen is the ceremonial head of the Commonwealth, which currently has 54 member states.",
+    "tip": "The King is the ceremonial head of the Commonwealth, which currently has 56 member states.",
     "id": "4f09f623"
   },
   {
@@ -589,14 +589,14 @@
     "question": "Who is currently the head of state of the UK?",
     "options": [
       "Queen Elizabeth II",
-      "Prince Charles",
-      "David Cameron",
-      "Theresa May"
+      "King Charles III",
+      "Prince William",
+      "The Prime Minister"
     ],
     "answers": [
-      0
+      1
     ],
-    "tip": "Queen Elizabeth II is the head of state of the UK. She is also the monarch or head of state for many countries in the Commonwealth.",
+    "tip": "King Charles III is the head of state of the UK. He is also the monarch or head of state for many countries in the Commonwealth.",
     "id": "506113cd"
   },
   {

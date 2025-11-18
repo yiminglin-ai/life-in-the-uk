@@ -161,17 +161,17 @@
     "id": "1a71c41e"
   },
   {
-    "question": "How long can you use an EU driving licence for?",
+    "question": "If your driving licence is from a country outside the UK, how long can you usually drive in the UK before you must exchange it or stop driving?",
     "options": [
       "5 years",
       "2 years",
       "12 months",
-      "As long as it's valid"
+      "As long as it is valid"
     ],
     "answers": [
-      3
+      2
     ],
-    "tip": "If your driving licence is from a country in the European Union (EU), Iceland, Liechtenstein or Norway, you can drive in the UK for as long as your licence is valid. If you have a licence from any other country, you may use it in the UK for up to 12 months.",
+    "tip": "If your driving licence is from most countries outside the UK, you can usually drive on it for up to 12 months from when you become resident before you must exchange it or stop driving. (Rules can vary slightly depending on the country your licence is from.)",
     "id": "1a76b297"
   },
   {
@@ -235,7 +235,7 @@
     "id": "1ab361c7"
   },
   {
-    "question": "Elections for the European Parliament are held every ______ year(s)",
+    "question": "When the UK was a member of the European Union, elections for the European Parliament were held every ______ year(s)",
     "options": [
       "one",
       "three",
@@ -245,6 +245,7 @@
     "answers": [
       3
     ],
+    "tip": "While the UK was a member of the European Union, voters elected Members of the European Parliament (MEPs) every five years.",
     "id": "1ab5648f"
   },
   {
@@ -289,7 +290,7 @@
     "id": "1b0bc6f6"
   },
   {
-    "question": "How often are the members of the Welsh Assembly (AMs) elected?",
+    "question": "How often are Members of the Senedd (MSs) elected to the Welsh Parliament?",
     "options": [
       "Every 5 years",
       "Every 2 years",
@@ -297,9 +298,9 @@
       "Every 3 years"
     ],
     "answers": [
-      2
+      0
     ],
-    "tip": "",
+    "tip": "Elections to the Welsh Parliament (Senedd Cymru) are currently held every five years.",
     "id": "1b0f44ea"
   },
   {
@@ -320,12 +321,13 @@
     "options": [
       "The Foreign Secretary",
       "The Prime Minister",
-      "The Queen",
-      "The MP"
+      "The monarch",
+      "An MP"
     ],
     "answers": [
       2
     ],
+    "tip": "The UK is a constitutional monarchy. The monarch is the head of state, while the Prime Minister is the head of government.",
     "id": "1b14f258"
   },
   {
@@ -424,7 +426,7 @@
     "answers": [
       3
     ],
-    "tip": "The UK originally decided not to join the EU (European Union) but it became a member in 1973. There are now 28 EU member states.",
+    "tip": "The UK originally decided not to join the EU (European Union) but became a member in 1973. There are now 27 EU member states, and the UK left the EU on 31 January 2020.",
     "id": "1b9363a3"
   },
   {

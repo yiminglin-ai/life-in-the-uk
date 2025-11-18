@@ -28,7 +28,7 @@
     "question": "The current heir to the throne is",
     "options": [
       "The Prince of Wales",
-      "Prince William",
+      "Prince Edward",
       "Princess Ann",
       "Prince Harry"
     ],
@@ -73,7 +73,7 @@
     "answers": [
       0
     ],
-    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Office for Police Conduct (IOPC) in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
     "id": "04b60d6e"
   },
   {
@@ -115,7 +115,7 @@
     "id": "04cbe984"
   },
   {
-    "question": "Who is Queen Elizabeth II married to?",
+    "question": "Who was Queen Elizabeth II married to?",
     "options": [
       "Prince Harry",
       "Prince Philip",
@@ -125,7 +125,7 @@
     "answers": [
       1
     ],
-    "tip": "Queen Elizabeth II is married to Prince Philip.",
+    "tip": "Queen Elizabeth II was married to Prince Philip.",
     "id": "04cc0598"
   },
   {

@@ -8,9 +8,9 @@
       "Prince William"
     ],
     "answers": [
-      0
+      3
     ],
-    "tip": "The Queen’s eldest son, Prince Charles (the Prince of Wales), is the heir to the throne.",
+    "tip": "In the UK, the heir to the throne is the monarch's eldest child. As of 2025, the heir is Prince William, the Prince of Wales.",
     "id": "289a007d"
   },
   {
@@ -169,19 +169,19 @@
     "id": "2983a6b2"
   },
   {
-    "question": "Wales and Scotland use a system called ‘individual registration’.  All those entitled to vote must complete their own registration forms",
+    "question": "In Northern Ireland a system called ‘individual registration’ operates and all those entitled to vote must complete their own registration form",
     "options": [
-      "Trues",
+      "True",
       "False"
     ],
     "answers": [
-      1
+      0
     ],
     "tip": "In Northern Ireland a system called ‘individual registration’ operates and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change.",
     "id": "298e7159"
   },
   {
-    "question": "The Welsh government and National Assembly for Wales are based in",
+    "question": "The Welsh Government and Welsh Parliament (Senedd Cymru) are based in",
     "options": [
       "Newport",
       "Cardiff",

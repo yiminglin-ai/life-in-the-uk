@@ -181,14 +181,14 @@
     "question": "Who is currently the Head of State of the UK?",
     "options": [
       "Queen Elizabeth II",
-      "Prince Philip",
-      "David Cameron",
-      "Prince Charles"
+      "King Charles III",
+      "Prince William",
+      "The Prime Minister"
     ],
     "answers": [
-      0
+      1
     ],
-    "tip": "Queen Elizabeth II is the head of state of the UK. She is also the monarch or head of state for many countries in the Commonwealth.",
+    "tip": "King Charles III is the head of state of the UK. He is also the monarch or head of state for many countries in the Commonwealth.",
     "id": "4b4b7f3b"
   },
   {
@@ -369,7 +369,7 @@
     "id": "4bb287f8"
   },
   {
-    "question": "Everyone in England, Wales and Scotland have to fill in individual electoral registration form. (Also known as 'Individual Registration')",
+    "question": "Everyone in the UK has to register individually to vote (a system known as 'individual electoral registration').",
     "options": [
       "True",
       "False"
@@ -377,7 +377,7 @@
     "answers": [
       1
     ],
-    "tip": "This system operates in Northern Ireland. This is called 'individual registration' and all those entitled to vote must complete their own registration form",
+    "tip": "A system of individual electoral registration operates across the UK and everyone entitled to vote must complete their own registration form.",
     "id": "4bb3516a"
   },
   {

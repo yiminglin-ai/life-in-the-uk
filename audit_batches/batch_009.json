@@ -196,7 +196,7 @@
     "id": "124f0c60"
   },
   {
-    "question": "Who is the fastest person to sail around the world singlehanded?",
+    "question": "Which British yachtswoman became famous for sailing solo non-stop around the world and breaking the world record in 2005?",
     "options": [
       "Jessica Ennis",
       "Dame Ellen MacArthur",
@@ -206,6 +206,7 @@
     "answers": [
       1
     ],
+    "tip": "In 2005 Dame Ellen MacArthur broke the world record for the fastest solo circumnavigation of the globe. Her record has since been broken by other sailors.",
     "id": "12503d95"
   },
   {
@@ -529,7 +530,7 @@
     "id": "13341b8a"
   },
   {
-    "question": "Who is the ceremonial head of the Commonwealth?",
+    "question": "Who is the ceremonial Head of the Commonwealth?",
     "options": [
       "The Queen",
       "The Prime Minister",
@@ -537,9 +538,9 @@
       "The Monarch"
     ],
     "answers": [
-      0
+      3
     ],
-    "tip": "The Queen is the ceremonial head of the Commonwealth.",
+    "tip": "The ceremonial Head of the Commonwealth is the UK monarch (currently King Charles III).",
     "id": "1336d33b"
   },
   {

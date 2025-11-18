@@ -1,6 +1,6 @@
 [
   {
-    "question": "Clement Atlee led the establishment of the NHS.",
+    "question": "Clement Attlee led the establishment of the NHS.",
     "options": [
       "True",
       "False"
@@ -8,11 +8,11 @@
     "answers": [
       0
     ],
-    "tip": "Clement Atlee led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
+    "tip": "Clement Attlee led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
     "id": "0a846446"
   },
   {
-    "question": "When did the Queen come to the throne?",
+    "question": "When did Queen Elizabeth II come to the throne?",
     "options": [
       "1953",
       "1952",
@@ -76,7 +76,7 @@
   {
     "question": "Guy Fawkes night commemorates",
     "options": [
-      "Gun powder plot of 1605",
+      "Gunpowder Plot of 1605",
       "People who died in The First World War",
       "Fireworks",
       "People who died in The Second World War"
@@ -97,11 +97,11 @@
     "answers": [
       3
     ],
-    "tip": "The first farmers built houses, tombs and monuments on the land.",
+    "tip": "The first farmers built houses, tombs and monuments on the land.",
     "id": "0aaa4f90"
   },
   {
-    "question": "To visit the UK Parliament you can queue on the day at the public entrance for a free entry",
+    "question": "To visit the UK Parliament, you can queue on the day at the public entrance to watch debates from the public galleries",
     "options": [
       "True",
       "False"
@@ -112,7 +112,7 @@
     "id": "0aac1d03"
   },
   {
-    "question": "Which of the following are a public holiday?",
+    "question": "Which of the following are public holidays (bank holidays) in the UK?",
     "options": [
       "Good Friday",
       "April Fool's Day",
@@ -127,7 +127,7 @@
     "id": "0abd3d7c"
   },
   {
-    "question": "You can find copies of Hansard report in large libraries and on the Internet",
+    "question": "You can find copies of Hansard reports in large libraries and on the Internet",
     "options": [
       "True",
       "False"
@@ -139,7 +139,7 @@
     "id": "0abfc034"
   },
   {
-    "question": "Queen Victoria introduced the Victoria Gold during the Crimean War.",
+    "question": "Queen Victoria introduced the Victoria Gold during the Crimean War.",
     "options": [
       "True",
       "False"
@@ -204,7 +204,7 @@
     "answers": [
       1
     ],
-    "tip": "During Henry III's reign, the Reformation was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.",
+    "tip": "During Henry VIII's reign, the Reformation was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.",
     "id": "0b373ef7"
   },
   {
@@ -221,7 +221,7 @@
     "id": "0b3db6e1"
   },
   {
-    "question": "The UK is one of five permanent members of the Security Council in the United Nation",
+    "question": "The UK is one of five permanent members of the Security Council in the United Nations",
     "options": [
       "True",
       "False"
@@ -246,7 +246,7 @@
     "id": "0b4d15d0"
   },
   {
-    "question": "The 39 steps was directed by David Lean in 1980",
+    "question": "The 39 Steps was directed by David Lean in 1980",
     "options": [
       "True",
       "False"
@@ -284,7 +284,7 @@
     "id": "0b5a4ff7"
   },
   {
-    "question": "Things that you can do to look after the environment includes:",
+    "question": "Things that you can do to look after the environment include:",
     "options": [
       "Walk and use public transport to get around",
       "Use mobile phone as much as possible",
@@ -312,7 +312,7 @@
     "id": "0b8bbd06"
   },
   {
-    "question": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+    "question": "What was inscribed on the first coins to be minted in Britain during the Iron Age?",
     "options": [
       "The names of Iron Age kings",
       "The names of Iron Age Gods",
@@ -454,20 +454,21 @@
     "answers": [
       0
     ],
-    "tip": "Many parts of the countryside and places of interest are kept open by the National Trust. It aims to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
+    "tip": "Many parts of the countryside and places of interest are kept open by the National Trust. It aims to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
     "id": "0c31fd80"
   },
   {
-    "question": "How many member states are there in the Commonwealth?",
+    "question": "As of 2025, how many member states are there in the Commonwealth?",
     "options": [
       "51",
       "52",
-      "54",
+      "56",
       "58"
     ],
     "answers": [
       2
     ],
+    "tip": "As of 2025, the Commonwealth has 56 member states.",
     "id": "0c357f6c"
   },
   {
@@ -516,8 +517,8 @@
     "question": "Which of these statements is incorrect?",
     "options": [
       "Selling or buying drugs such as heroin is illegal in the UK",
-      "It's a criminal offence to offend one's religion or ethnic origin",
-      "It's a criminal offence to carry a weapon of any kind",
+      "It's a criminal offence to discriminate against someone because of their religion or ethnic origin",
+      "It's a criminal offence to carry an illegal weapon, such as a knife, in public without good reason",
       "It's a criminal offence to owe someone money"
     ],
     "answers": [
