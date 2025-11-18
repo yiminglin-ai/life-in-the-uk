@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Deploy script for Life in the UK App
-# Copies relevant files from master to gh-pages/life-in-the-uk
+# Copies relevant files from master to gh-pages
 
 # Ensure we are on master
 if [[ $(git rev-parse --abbrev-ref HEAD) != "master" ]]; then
@@ -16,32 +16,34 @@ if [[ -n $(git status -s) ]]; then
 fi
 
 echo "Switching to gh-pages..."
-git checkout gh-pages
+# If gh-pages doesn't exist locally, try to fetch it or create it
+if ! git show-ref --verify --quiet refs/heads/gh-pages; then
+    echo "Creating gh-pages branch..."
+    git checkout --orphan gh-pages
+    git rm -rf .
+    git clean -fdx
+else
+    git checkout gh-pages
+    git pull origin gh-pages || echo "Remote gh-pages might not exist yet, skipping pull."
+fi
 
 echo "Updating application files..."
-mkdir -p life-in-the-uk
 
 FILES="index.html questions_base.json service-worker.js manifest.json icon_480.png favicon.ico"
 
 for f in $FILES; do
-    # Checkout file from master to current directory (root)
+    # Checkout file from master to current directory
     git checkout master -- $f
-    # Move it to the subdirectory
-    mv $f life-in-the-uk/
 done
 
-# Stage the changes in the subdirectory
-git add life-in-the-uk
-
-# Remove the files from the root index (cleaned up from the checkout)
-git rm --cached -r $FILES > /dev/null 2>&1
+# Stage the changes
+git add $FILES
 
 echo "Committing and pushing..."
-git commit -m "Deploy update to life-in-the-uk"
+git commit -m "Deploy update to gh-pages"
 git push origin gh-pages
 
 echo "Returning to master..."
 git checkout master
 
 echo "Deployment complete! Application available at: https://yiminglin-ai.github.io/life-in-the-uk/"
-

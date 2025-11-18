@@ -12,6 +12,10 @@ This is a fork of the original [Life in the UK test](https://maxwellito.github.i
 
 The application is hosted at: [https://yiminglin-ai.github.io/life-in-the-uk/](https://yiminglin-ai.github.io/life-in-the-uk/)
 
+## Repository
+
+Code is available at: [https://github.com/yiminglin-ai/life-in-the-uk](https://github.com/yiminglin-ai/life-in-the-uk)
+
 ## Question Auditing Workflow
 
 This repository contains scripts to audit and correct the question database using LLMs.
