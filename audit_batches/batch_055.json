@@ -203,7 +203,7 @@
     "question": "Who can only give ‘advice, warn and encourage’ about government matters?",
     "options": [
       "Members of the police",
-      "The Queen",
+      "The monarch",
       "The Speaker",
       "Prime Minister"
     ],
@@ -275,6 +275,7 @@
     "answers": [
       1
     ],
+    "tip": "This statement is false. Before the UK left the European Union, adult citizens of other EU states resident in the UK could vote in some elections (such as local and European Parliament elections) but not UK General Elections. As of 2025, EU citizens resident in the UK can vote in some local and devolved elections under specific agreements, but not UK General Elections unless they are also British, Irish or qualifying Commonwealth citizens.",
     "id": "720d4afb"
   },
   {

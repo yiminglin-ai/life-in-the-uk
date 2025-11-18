@@ -244,7 +244,7 @@
     "id": "67f90194"
   },
   {
-    "question": "Complaints against the police can only be made by writing to the Police Complaints Commissioner.",
+    "question": "Complaints against the police can only be made by writing to the Independent Office for Police Conduct (IOPC) or its equivalents in the devolved nations.",
     "options": [
       "True",
       "False"
@@ -252,7 +252,7 @@
     "answers": [
       1
     ],
-    "tip": "",
+    "tip": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Office for Police Conduct (IOPC) in England and Wales, the Police Investigations & Review Commissioner (PIRC) in Scotland, or the Police Ombudsman for Northern Ireland.",
     "id": "67fe2d69"
   },
   {
@@ -264,6 +264,7 @@
     "answers": [
       1
     ],
+    "tip": "As of 2025, the Northern Ireland Assembly has 90 elected members, known as MLAs (Members of the Legislative Assembly). The number was reduced from 108 to 90 in 2017.",
     "id": "68166a7d"
   },
   {
@@ -590,7 +591,7 @@
     "id": "693645b4"
   },
   {
-    "question": "Who can stand for office as a Local Councillor?",
+    "question": "Before the UK left the EU, who could stand for office as a local councillor?",
     "options": [
       "British and EU citizens only",
       "British, Irish, Eligible Commonwealth Citizens and EU citizens",
@@ -600,7 +601,7 @@
     "answers": [
       1
     ],
-    "tip": "British citizens can stand for Office as a local councillor, a member of Parliament (or the devolved equivalents) or a member of the European Parliament. This is an opportunity to become even more involved in the political life of the UK. You may also be able to stand for Office if you are an Irish citizen, an eligible Commonwealth citizen or (except for standing to be an MP) a citizen of another EU country.",
+    "tip": "Before the UK left the EU, British citizens could stand for office as a local councillor, a member of Parliament (or the devolved equivalents) or a member of the European Parliament. You could also stand if you were an Irish citizen, an eligible Commonwealth citizen or (except for standing to be an MP) a citizen of another EU country. Since Brexit, eligibility for EU citizens to stand for local office in the UK depends on specific voting and candidacy agreements, but British, Irish and eligible Commonwealth citizens continue to be able to stand.",
     "id": "6944606a"
   },
   {

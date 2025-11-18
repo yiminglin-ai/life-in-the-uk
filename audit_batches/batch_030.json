@@ -622,13 +622,13 @@
     "options": [
       "Northern Ireland Assembly",
       "Scottish Parliament",
-      "Welsh Assembly",
+      "Senedd Cymru (Welsh Parliament)",
       "Westminster"
     ],
     "answers": [
       0
     ],
-    "tip": "There has been a Welsh Assembly and a Scottish Parliament since 1999. There is a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+    "tip": "There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999. There is a Northern Ireland Assembly, although this has been suspended on a few occasions.",
     "id": "40baadaa"
   },
   {

@@ -556,17 +556,17 @@
     "id": "39c89b5c"
   },
   {
-    "question": "What are elected members of the National Assembly of Wales known as?",
+    "question": "What are elected members of the Welsh Parliament (Senedd Cymru) now known as?",
     "options": [
       "MPs",
       "MEPs",
-      "AMs",
+      "MSs",
       "MLAs"
     ],
     "answers": [
       2
     ],
-    "tip": "In Wales the elected members, known as AMs, meet in the Welsh Assembly in the Senedd in Cardiff Bay",
+    "tip": "In Wales the elected members, known as Members of the Senedd (MSs), meet in the Welsh Parliament (Senedd Cymru) in the Senedd in Cardiff Bay.",
     "id": "39ce92a7"
   },
   {

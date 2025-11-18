@@ -423,7 +423,7 @@
     "id": "1dd54de7"
   },
   {
-    "question": "The National Anthem \"God save the queen\" can only be played in the presence of the Queen.",
+    "question": "The UK National Anthem \"God Save the King\" can only be played in the presence of the monarch.",
     "options": [
       "True",
       "False"
@@ -431,7 +431,7 @@
     "answers": [
       1
     ],
-    "tip": "",
+    "tip": "The National Anthem is called \"God Save the King\" and may be played on many occasions, whether or not the monarch is present.",
     "id": "1ddd1ef9"
   },
   {

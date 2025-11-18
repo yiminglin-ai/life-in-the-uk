@@ -56,14 +56,15 @@
   {
     "question": "Who has an important ceremonial role in this country?",
     "options": [
-      "The Queen",
+      "The monarch",
       "The Prime Minister",
       "The Archbishop of Canterbury"
     ],
     "answers": [
       0
     ],
-    "id": "4b0a033d"
+    "id": "4b0a033d",
+    "tip": "The monarch has important ceremonial roles in the United Kingdom, including the State Opening of Parliament each year."
   },
   {
     "question": "How many crosses does the Union Flag have?",

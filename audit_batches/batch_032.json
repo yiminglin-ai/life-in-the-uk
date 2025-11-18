@@ -200,7 +200,7 @@
     "id": "43585687"
   },
   {
-    "question": "Where is the National Assembly for Wales based?",
+    "question": "Where is the Welsh Parliament (Senedd Cymru) based?",
     "options": [
       "London",
       "Newport",
@@ -210,7 +210,7 @@
     "answers": [
       3
     ],
-    "tip": "The National Assembly for Wales is based in Cardiff, the capital city of Wales.",
+    "tip": "The Senedd Cymru (Welsh Parliament) is based in Cardiff, the capital city of Wales.",
     "id": "43790984"
   },
   {
@@ -338,7 +338,7 @@
     "question": "The Prime Minister appoints",
     "options": [
       "The members of the cabinet",
-      "The Queen",
+      "The monarch",
       "Members of the Parliament"
     ],
     "answers": [

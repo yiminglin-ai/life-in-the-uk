@@ -122,7 +122,7 @@
     "id": "66244402"
   },
   {
-    "question": "The National Assembly for Wales can pass laws (in specific areas) without the agreement of the UK Parliament",
+    "question": "The Welsh Parliament (Senedd Cymru) can pass laws (in specific areas) without the agreement of the UK Parliament",
     "options": [
       "True",
       "False"
@@ -130,7 +130,7 @@
     "answers": [
       0
     ],
-    "tip": "The National Assembly for Wales can pass laws without the agreement of the UK Parliament",
+    "tip": "The Senedd Cymru (Welsh Parliament) can pass laws without the agreement of the UK Parliament",
     "id": "6625572d"
   },
   {
@@ -620,7 +620,7 @@
     "id": "675eb117"
   },
   {
-    "question": "Assembly Members, MPs, and MEPs are listed in the Yellow Pages and Phone book?",
+    "question": "Contact details for elected representatives (such as MPs and Members of the Senedd) can be found in various sources including official websites.",
     "options": [
       "True",
       "False"
@@ -628,7 +628,8 @@
     "answers": [
       0
     ],
-    "id": "67728e45"
+    "id": "67728e45",
+    "tip": "Contact details for MPs, MSPs, Members of the Senedd (MSs), and MLAs are available via official parliamentary and devolved administration websites. The UK has had no MEPs since leaving the EU in 2020."
   },
   {
     "question": "Members of the armed forces cannot stand for public office",

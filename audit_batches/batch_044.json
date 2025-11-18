@@ -542,15 +542,15 @@
     "id": "5d64d25f"
   },
   {
-    "question": "People are able to buy National Lottery tickets in the UK if they are aged 14 or over.",
+    "question": "People under 18 are not allowed to participate in the National Lottery.",
     "options": [
       "True",
       "False"
     ],
     "answers": [
-      1
+      0
     ],
-    "tip": "People under 16 are not allowed to participate in the National Lottery.",
+    "tip": "The minimum age to participate in the National Lottery was raised from 16 to 18 in 2021.",
     "id": "5d6e3b05"
   },
   {
@@ -638,7 +638,7 @@
       "The Queen's husband",
       "The Queen's oldest son",
       "The Prime Minister",
-      "The Queen"
+      "The monarch"
     ],
     "answers": [
       3

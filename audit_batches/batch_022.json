@@ -240,7 +240,7 @@
     "question": "In 1999 which TWO new national bodies were established?",
     "options": [
       "House of Lords",
-      "Welsh Assembly",
+      "Welsh Assembly (now Senedd Cymru)",
       "Scottish Parliament",
       "English Parliament"
     ],
@@ -248,7 +248,7 @@
       1,
       2
     ],
-    "tip": "Since 1997, some power has been devolved from central government. In 1999 the Scottish Parliament and the Welsh Assembly were established, to give people in Scotland and Wales more control over matters directly affecting them.",
+    "tip": "Since 1997, some power has been devolved from central government. In 1999 the Scottish Parliament and the Welsh Parliament (Senedd Cymru) were established, to give people in Scotland and Wales more control over matters directly affecting them.",
     "id": "2e368bd2"
   },
   {
@@ -547,7 +547,7 @@
     "id": "2eca1cb7"
   },
   {
-    "question": "Can the anthem 'God save the queen' be played only in presence of the Queen?",
+    "question": "Can the anthem the National Anthem be played only in presence of the Queen?",
     "options": [
       "True",
       "False"

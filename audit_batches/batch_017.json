@@ -135,13 +135,13 @@
     "options": [
       "The Prime Minister",
       "The Speaker",
-      "The Queen",
+      "The King",
       "The Home Secretary"
     ],
     "answers": [
       2
     ],
-    "tip": "",
+    "tip": "The monarch has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead.",
     "id": "22d215c4"
   },
   {
@@ -202,7 +202,7 @@
     "id": "231a50d4"
   },
   {
-    "question": "What is played at important national occasions and at events attended by the Queen or the Royal Family?",
+    "question": "What is played at important national occasions and at events attended by the King or the Royal Family?",
     "options": [
       "Drums",
       "National Anthem",
@@ -239,6 +239,7 @@
     "answers": [
       2
     ],
+    "tip": "Driving licences from EU and EEA countries (including Iceland, Liechtenstein and Norway) are generally valid for driving in the UK while they remain valid. Residents usually have to exchange their licence when it expires or by age 70. These rules are based on international agreements and continue to apply after Brexit.",
     "id": "233e6c1c"
   },
   {
@@ -453,7 +454,7 @@
     "id": "2439d6d4"
   },
   {
-    "question": "Who will remain the longest reigning monarch until 9 September 2015?",
+    "question": "Who was the longest reigning British monarch until 9 September 2015?",
     "options": [
       "Elizabeth II",
       "Elizabeth I",

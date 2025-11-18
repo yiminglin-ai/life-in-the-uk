@@ -164,12 +164,13 @@
     "options": [
       "36",
       "49",
-      "54",
+      "56",
       "62"
     ],
     "answers": [
       2
     ],
+    "tip": "As of 2025, the Commonwealth has 56 member countries.",
     "id": "20dd0303"
   },
   {
@@ -279,7 +280,7 @@
     "id": "212bd653"
   },
   {
-    "question": "Members in the Welsh Assembly can speak English and Welsh, and all Assembly publications are in both languages",
+    "question": "Members in the Welsh Parliament (Senedd Cymru) can speak English and Welsh, and all Assembly publications are in both languages",
     "options": [
       "True",
       "False"

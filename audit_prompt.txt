@@ -26,5 +26,47 @@ Original:
 
 If the input had "UK" listed as a member (incorrectly), you would fix it.
 
+## Some expected major updates expected
+
+### 1. Monarchy & Head of State (2025 Updates)
+- **Current Monarch**: King Charles III (succeeded Queen Elizabeth II in 2022)
+- **Heir to Throne**: Prince William, Prince of Wales (not Prince Charles)
+- **Gender-neutral references**: "The Queen" → "The monarch" in ceremonial contexts
+- **King's Speech**: State Opening of Parliament speech now references "King's (or Queen's) Speech"
+- **National Anthem**: References updated to be gender-neutral or mention both versions
+
+### 2. UK-EU Relationship (Post-Brexit)
+- **EU member count**: Updated from 28 to 27 member states
+- **UK status**: Clarified that UK joined in 1973 and left on 31 January 2020
+- **European Parliament**: Elections marked as historical; UK no longer elects MEPs
+- **EU law**: Updated to note it no longer automatically applies in UK (with NI caveats)
+- **Driving licences**: EU licence questions reworded to reflect post-Brexit reality
+
+### 3. Devolved Administrations (Modern Terminology)
+- **Welsh Parliament**: "Welsh Assembly" / "National Assembly for Wales" → "Senedd Cymru" / "Welsh Parliament"
+- **Members of Senedd**: "AMs (Assembly Members)" → "MSs (Members of the Senedd)"
+- **Election frequency**: Senedd elections now every 5 years (not 4)
+- **Northern Ireland Assembly**: Updated to 90 MLAs (reduced from 108 in 2017)
+
+### 4. Commonwealth (2025 Membership)
+- **Member count**: Updated from 54 to 56 member states
+- **Head**: Ceremonial head is the monarch (currently King Charles III)
+
+### 5. Police & Law Enforcement (Modernized Bodies)
+- **England & Wales**: "Independent Police Complaints Commission" → "Independent Office for Police Conduct (IOPC)"
+- **Scotland**: "Police Complaints Commissioner" → "Police Investigations & Review Commissioner (PIRC)"
+- **Northern Ireland**: Police Ombudsman (unchanged)
+
+### 6. Age Requirements & Regulations
+- **National Lottery**: Minimum age raised from 16 to 18 (changed in 2021)
+- **TV Licence for 75+**: Clarified that free licence only for those on Pension Credit (not automatic)
+- **Jury service**: Updated age ranges where needed; noted variations between UK nations
+
+### 7. Electoral & Parliamentary Updates
+- **General elections**: Maximum period of 5 years (Dissolution and Calling of Parliament Act 2022)
+- **Electoral registration**: Clarified Northern Ireland's individual registration system
+- **Voting rights**: EU citizens' voting rights noted as pre-Brexit historical context
+
+
 Please process the attached JSON batch.
 

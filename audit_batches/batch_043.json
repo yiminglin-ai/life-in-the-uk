@@ -271,7 +271,7 @@
     "id": "59f255c2"
   },
   {
-    "question": "How many members does the Welsh Assembly have?",
+    "question": "How many members does the Welsh Parliament (Senedd Cymru) have?",
     "options": [
       "108",
       "60",
@@ -281,7 +281,7 @@
     "answers": [
       1
     ],
-    "tip": "The Welsh Assembly has 60 members.",
+    "tip": "The Welsh Parliament (Senedd Cymru) has 60 members.",
     "id": "59f39f3a"
   },
   {
@@ -399,7 +399,7 @@
     "id": "5a5cdee7"
   },
   {
-    "question": "Some issues may be debated in the Welsh Assembly and the Scottish Parliament, but remain under the control of the UK Government in London, they are:",
+    "question": "Some issues may be debated in the Welsh Parliament (Senedd Cymru) and the Scottish Parliament, but remain under the control of the UK Government in London, they are:",
     "options": [
       "Defence, Taxation, Foreign affairs, and social security",
       "Education, Environment, Police",
@@ -643,7 +643,7 @@
     "options": [
       "Long Live the Queen",
       "Almighty is the Queen",
-      "God Save the Queen",
+      "God Save the King",
       "Long Live the Monarch"
     ],
     "answers": [

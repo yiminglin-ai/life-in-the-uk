@@ -133,12 +133,12 @@
     "options": [
       "Scottish Parliament",
       "Northern Ireland Assembly",
-      "Welsh Assembly"
+      "Welsh Assembly (now Senedd Cymru)"
     ],
     "answers": [
       1
     ],
-    "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999.",
+    "tip": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Parliament (Senedd Cymru) and a Scottish Parliament since 1999.",
     "id": "122cc733"
   },
   {
@@ -532,7 +532,7 @@
   {
     "question": "Who is the ceremonial Head of the Commonwealth?",
     "options": [
-      "The Queen",
+      "The monarch",
       "The Prime Minister",
       "The Government",
       "The Monarch"

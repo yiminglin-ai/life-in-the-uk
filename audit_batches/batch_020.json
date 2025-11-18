@@ -521,19 +521,20 @@
     "id": "2af02eed"
   },
   {
-    "question": "The Queen's ______ is the heir to the throne",
+    "question": "Under the current rules of succession, who is usually first in line to the throne?",
     "options": [
-      "Oldest daughter",
-      "Oldest son",
-      "Oldest grandson"
+      "The monarch's eldest child",
+      "The monarch's eldest son",
+      "The monarch's eldest grandchild"
     ],
     "answers": [
-      1
+      0
     ],
+    "tip": "Since changes introduced by the Succession to the Crown Act 2013, the Crown passes to the monarch's eldest child, regardless of whether they are male or female.",
     "id": "2af29641"
   },
   {
-    "question": "The Queen makes a speech at the opening of the new parliamentary session each year. What is included in it?",
+    "question": "The monarch makes a speech (often called the King's or Queen's Speech) at the opening of the new parliamentary session each year. What is included in it?",
     "options": [
       "Her own policies for next year",
       "She appoints the next Prime Minister",
@@ -543,7 +544,7 @@
     "answers": [
       2
     ],
-    "tip": "The Queen has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Queen makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in her name.",
+    "tip": "The monarch has important ceremonial roles, such as the State Opening of Parliament each year. On this occasion the King's (or Queen's) Speech sets out the government's legislative plans for the year ahead. All Acts of Parliament are made in the monarch's name.",
     "id": "2b2075d3"
   },
   {
@@ -557,7 +558,7 @@
     "answers": [
       0
     ],
-    "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. At the date of writing (2013) this is the longest reign of any British monarch. Her reign is known as the Victorian Age.",
+    "tip": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. Her reign was the longest in British history until Queen Elizabeth II surpassed it in 2015. Her reign is known as the Victorian Age.",
     "id": "2b24db01"
   },
   {
