@@ -1,5 +1,5 @@
 var APP_NAME = 'lifeintheuk',
-  APP_VERSION = 9,
+  APP_VERSION = 12,
   CACHE_NAME = APP_NAME + '_' + APP_VERSION;
 var filesToCache = ['./', './?utm_source=homescreen', './questions_base.json'];
 
@@ -29,6 +29,20 @@ self.addEventListener('activate', function (event) {
 });
 
 self.addEventListener('fetch', function (event) {
+  // Only handle same-origin GET requests over HTTP(S); ignore things like
+  // chrome-extension://, data:, POST requests, etc.
+  if (event.request.method !== 'GET') {
+    return;
+  }
+
+  var url = new URL(event.request.url);
+  if (url.origin !== self.location.origin) {
+    return;
+  }
+  if (url.protocol !== 'http:' && url.protocol !== 'https:') {
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request).then(function (response) {
       // Cache hit - return response
@@ -36,10 +50,7 @@ self.addEventListener('fetch', function (event) {
         return response;
       }
 
-      // IMPORTANT: Clone the request. A request is a stream and
-      // can only be consumed once. Since we are consuming this
-      // once by cache and once by the browser for fetch, we need
-      // to clone the response.
+      // Clone the request because it is a stream.
       var fetchRequest = event.request.clone();
 
       return fetch(fetchRequest).then(function (response) {
@@ -48,14 +59,14 @@ self.addEventListener('fetch', function (event) {
           return response;
         }
 
-        // IMPORTANT: Clone the response. A response is a stream
-        // and because we want the browser to consume the response
-        // as well as the cache consuming the response, we need
-        // to clone it so we have two streams.
+        // Clone the response before caching
         var responseToCache = response.clone();
 
         caches.open(CACHE_NAME).then(function (cache) {
-          cache.put(event.request, responseToCache);
+          cache.put(event.request, responseToCache).catch(function (err) {
+            // Ignore cache errors for unsupported schemes, etc.
+            console.warn('SW cache.put failed:', err);
+          });
         });
 
         return response;

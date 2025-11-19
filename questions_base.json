@@ -20296,7 +20296,7 @@
             "False"
         ],
         "answers": [
-            0
+            1
         ],
         "tip": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’",
         "id": "41c191a0"
@@ -40323,5 +40323,235 @@
         ],
         "tip": "The UK is no longer a member of the European Union. Germany, Lithuania, and Romania are current EU member states. Eswatini (formerly Swaziland), India, Nigeria, and New Zealand are not EU members.",
         "id": "7ffb5cf3"
+    },
+    {
+        "question": "Which TWO of the following policy areas remain the responsibility of the UK Parliament rather than the devolved administrations?",
+        "options": [
+            "Defence",
+            "Health",
+            "Education",
+            "Housing",
+            "Immigration",
+            "Local transport"
+        ],
+        "answers": [
+            0,
+            4
+        ],
+        "tip": "Powers such as defence, foreign affairs, immigration, taxation and social security remain reserved to the UK Parliament. Many other public services, including health and education, are devolved to the Scottish Parliament, Senedd Cymru (Welsh Parliament) and the Northern Ireland Assembly.",
+        "id": "80000001"
+    },
+    {
+        "question": "At a UK citizenship ceremony, what do new citizens promise in the citizenship pledge?",
+        "options": [
+            "Only to obey the law",
+            "To obey the law and uphold the UK’s democratic values, rights and freedoms",
+            "To serve in the armed forces for at least two years",
+            "To vote for the government in power at the time"
+        ],
+        "answers": [
+            1
+        ],
+        "tip": "As part of the citizenship ceremony, new citizens swear or affirm loyalty to the monarch and make a pledge to respect the rights and freedoms of the UK, uphold its democratic values, observe its laws faithfully and fulfil their duties and obligations as citizens.",
+        "id": "80000002"
+    },
+    {
+        "question": "Which TWO numbers can you dial anywhere in the UK to contact the emergency services (police, fire, ambulance, or coastguard)?",
+        "options": [
+            "999",
+            "911",
+            "112",
+            "101"
+        ],
+        "answers": [
+            0,
+            2
+        ],
+        "tip": "In the UK you can dial 999 or the European emergency number 112 to contact the police, fire and rescue, ambulance or coastguard services in an emergency. The non-emergency police number in England and Wales is 101.",
+        "id": "80000003"
+    },
+    {
+        "question": "Which TWO of the following are protected characteristics under UK equality law, meaning it is unlawful to discriminate against someone on these grounds?",
+        "options": [
+            "Age",
+            "Eye colour",
+            "Sex",
+            "Favourite sport"
+        ],
+        "answers": [
+            0,
+            2
+        ],
+        "tip": "UK equality law protects people from discrimination on a range of grounds including age, disability, sex, pregnancy and maternity, race, religion or belief, sexual orientation and marital or civil partnership status.",
+        "id": "80000004"
+    },
+    {
+        "question": "Which ONE of the following must you do before you can vote in a UK General Election?",
+        "options": [
+            "Pay income tax",
+            "Register to vote and have your name on the electoral register",
+            "Attend a local council meeting",
+            "Join a political party"
+        ],
+        "answers": [
+            1
+        ],
+        "tip": "To vote in UK elections and referendums, you must be eligible and have your name on the electoral register. You can usually register to vote from age 16, but you must be 18 or over to vote in UK General Elections.",
+        "id": "80000005"
+    },
+    {
+        "question": "Which TWO of the following are good examples of ways individuals in the UK can help protect the environment?",
+        "options": [
+            "Recycling household waste where facilities exist",
+            "Leaving lights and appliances on when not needed",
+            "Walking or using public transport instead of driving when possible",
+            "Burning rubbish in the garden"
+        ],
+        "answers": [
+            0,
+            2
+        ],
+        "tip": "You can help protect the environment by recycling as much waste as possible and by walking or using public transport instead of driving when you can. This reduces pollution and the amount of rubbish going to landfill.",
+        "id": "80000006"
+    },
+    {
+        "question": "Who was John Petts?",
+        "options": [
+            "A Welsh rugby player",
+            "A Welsh artist known for stained glass",
+            "A Scottish poet",
+            "An English politician"
+        ],
+        "answers": [
+            1
+        ],
+        "tip": "John Petts (1914–91) was a Welsh artist, best known for his engravings and stained glass.",
+        "id": "d9ba0b56"
+    },
+    {
+        "question": "What was the outcome of the Battle of Worcester in 1651?",
+        "options": [
+            "Charles I was executed",
+            "Charles II was defeated by Oliver Cromwell",
+            "The Vikings were defeated",
+            "William of Orange became King"
+        ],
+        "answers": [
+            1
+        ],
+        "tip": "In 1651, Charles II was defeated by Oliver Cromwell at the Battle of Worcester. He hid in an oak tree before escaping to Europe.",
+        "id": "1623ddbe"
+    },
+    {
+        "question": "Who built the White Tower in the Tower of London?",
+        "options": [
+            "Henry VIII",
+            "William the Conqueror",
+            "Queen Elizabeth I",
+            "Oliver Cromwell"
+        ],
+        "answers": [
+            1
+        ],
+        "tip": "The White Tower, which is the main part of the Tower of London, was built by William the Conqueror (William I).",
+        "id": "f6a67450"
+    },
+    {
+        "question": "Lucian Freud was a famous British artist known for which type of work?",
+        "options": [
+            "Landscapes",
+            "Abstract sculptures",
+            "Portraits",
+            "Stained glass"
+        ],
+        "answers": [
+            2
+        ],
+        "tip": "Lucian Freud (1922–2011) was a German-born British artist, best known for his portraits.",
+        "id": "18c66bff"
+    },
+    {
+        "question": "What is Clarice Cliff famous for designing?",
+        "options": [
+            "Furniture",
+            "Art Deco ceramics",
+            "Clothing",
+            "Buildings"
+        ],
+        "answers": [
+            1
+        ],
+        "tip": "Clarice Cliff (1899–1972) was a famous Art Deco ceramic designer.",
+        "id": "72c6c551"
+    },
+    {
+        "question": "Why were the MacDonalds of Glencoe killed in 1692?",
+        "options": [
+            "They refused to pay taxes",
+            "They were late in taking an oath of loyalty to William III",
+            "They supported the French",
+            "They plotted against the King"
+        ],
+        "answers": [
+            1
+        ],
+        "tip": "The MacDonalds of Glencoe were killed because they were late in taking an oath of loyalty to the new King, William III.",
+        "id": "4051b883"
+    },
+    {
+        "question": "Dame Mary Peters, an Olympic gold medalist, moved to which part of the UK as a child?",
+        "options": [
+            "Scotland",
+            "Wales",
+            "Northern Ireland",
+            "England"
+        ],
+        "answers": [
+            2
+        ],
+        "tip": "Born in Manchester, Mary Peters moved to Northern Ireland as a child. She won an Olympic gold medal in the pentathlon in 1972.",
+        "id": "4b8388ee"
+    },
+    {
+        "question": "Which group of Irish Nationalists favoured complete independence from the UK in the 19th century?",
+        "options": [
+            "The Fenians",
+            "The Cavaliers",
+            "The Roundheads",
+            "The Chartists"
+        ],
+        "answers": [
+            0
+        ],
+        "tip": "The Irish Nationalist movement grew strongly through the 19th century. Some, such as the Fenians, favoured complete independence.",
+        "id": "e2ae0cd0"
+    },
+    {
+        "question": "Who invented the hovercraft in the 1950s?",
+        "options": [
+            "Sir Christopher Cockerell",
+            "Sir Frank Whittle",
+            "John Logie Baird",
+            "Sir Tim Berners-Lee"
+        ],
+        "answers": [
+            0
+        ],
+        "tip": "Sir Christopher Cockerell (1910–99), a British inventor, invented the hovercraft in the 1950s.",
+        "id": "cb9e4f65"
+    },
+    {
+        "question": "Who was responsible for the construction of the Great Western Railway?",
+        "options": [
+            "Isambard Kingdom Brunel",
+            "George Stephenson",
+            "Richard Trevithick",
+            "James Watt"
+        ],
+        "answers": [
+            0
+        ],
+        "tip": "Isambard Kingdom Brunel (1806–59) was an engineer who built tunnels, bridges, railway lines and ships. He was responsible for constructing the Great Western Railway and the Clifton Suspension Bridge.",
+        "id": "e903fe46"
     }
 ]
