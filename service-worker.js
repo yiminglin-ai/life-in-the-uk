@@ -1,5 +1,5 @@
 var APP_NAME = 'lifeintheuk',
-  APP_VERSION = 13,
+  APP_VERSION = 14,
   CACHE_NAME = APP_NAME + '_' + APP_VERSION;
 var filesToCache = ['./', './?utm_source=homescreen', './questions_base.json'];
 
@@ -7,6 +7,9 @@ var filesToCache = ['./', './?utm_source=homescreen', './questions_base.json'];
 
 self.addEventListener('install', function (event) {
   // Perform install steps
+  // Force the waiting service worker to become the active service worker.
+  self.skipWaiting();
+  
   event.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
       return cache.addAll(filesToCache);
@@ -15,16 +18,20 @@ self.addEventListener('install', function (event) {
 });
 
 self.addEventListener('activate', function (event) {
+  // Claim clients immediately, so the new SW controls the page on this load.
   event.waitUntil(
-    caches.keys().then(function (cacheNames) {
-      return Promise.all(
-        cacheNames.map(function (cacheName) {
-          if (cacheName.indexOf(APP_NAME) === 0 && CACHE_NAME !== cacheName) {
-            return caches.delete(cacheName);
-          }
-        })
-      );
-    })
+    Promise.all([
+      clients.claim(),
+      caches.keys().then(function (cacheNames) {
+        return Promise.all(
+          cacheNames.map(function (cacheName) {
+            if (cacheName.indexOf(APP_NAME) === 0 && CACHE_NAME !== cacheName) {
+              return caches.delete(cacheName);
+            }
+          })
+        );
+      })
+    ])
   );
 });
 
