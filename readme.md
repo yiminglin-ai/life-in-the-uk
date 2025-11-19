@@ -14,7 +14,7 @@ The application is hosted at: [https://yiminglin-ai.github.io/life-in-the-uk/](h
 
 ## Repository
 
-Code is available at: [https://github.com/yiminglin-ai/life-in-the-uk-2](https://github.com/yiminglin-ai/life-in-the-uk-2)
+Code is available at: [https://github.com/yiminglin-ai/life-in-the-uk](https://github.com/yiminglin-ai/life-in-the-uk)
 
 ## Question Auditing Workflow
 
