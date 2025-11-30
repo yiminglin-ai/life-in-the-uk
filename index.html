@@ -126,6 +126,38 @@
       #summary.success .summary-fail { display: none; }
       #summary.fail .summary-fail,
       #summary.success .summary-success { display: inherit; }
+
+      /* Dark Mode Support */
+      @media (prefers-color-scheme: dark) {
+        body {
+          background-color: #121212;
+          color: #e0e0e0;
+        }
+        .progress {
+          background-color: #e0e0e0;
+        }
+        label input {
+          border-color: #e0e0e0;
+        }
+        p[data-info]:after {
+          color: #121212;
+          background: #e0e0e0;
+          border-top-color: #121212;
+        }
+        button {
+          color: #e0e0e0;
+        }
+        a {
+          color: #8ab4f8;
+        }
+        /* Lighter colors for better contrast on dark backgrounds */
+        .reveal input.good + span {
+          color: #66bb6a;
+        }
+        .reveal input.bad:checked + span {
+          color: #ef5350;
+        }
+      }
     </style>
   </head>
 
